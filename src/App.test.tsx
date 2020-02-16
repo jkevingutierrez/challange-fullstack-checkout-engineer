@@ -2,8 +2,10 @@ import React from 'react';
 import { render } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
+test('renders nav links', () => {
   const { getByText } = render(<App />);
-  const linkElement = getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+  const homeLinkElement = getByText(/Home/i);
+  const cartLinkElement = getByText(/Cart/i);
+  expect(homeLinkElement).toBeInTheDocument();
+  expect(cartLinkElement).toBeInTheDocument();
 });
