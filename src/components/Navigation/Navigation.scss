@@ -1,0 +1,91 @@
+@import '../../styles/share';
+
+$navigation-background: $black;
+$navigation-color: $white;
+$top-bar-color: $porcelain;
+
+.navigation {
+  background-color: $navigation-background;
+  color: $navigation-color;
+  font-size: 15px;
+  text-transform: uppercase;
+
+  a {
+    color: $navigation-color;
+    display: block;
+    min-width: 45px;
+    text-decoration: none;
+  }
+
+  .right-separation {
+    border-right: 1px solid hsla(0, 0%, 100%, .25);
+  }
+
+  &__top-bar {
+    background: linear-gradient(90deg, $black 30%, $transparent 50%), linear-gradient(180deg, $black 0, $shark);
+    font-size: 11px;
+    padding: .8rem 0;
+
+    a {
+      color: $top-bar-color;
+      padding: .1rem .5rem;
+    }
+
+    .button {
+      background: none;
+      border: 0;
+      color: $navigation-color;
+      font-weight: bold;
+
+      &:hover {
+        background-color: $top-bar-color;
+        color: $navigation-background;
+      }
+    }
+
+    &__elements {
+      display: flex;
+      justify-content: flex-end;
+      margin: 0 auto;
+      max-width: 1200px;
+      width: 100%;
+    }
+  }
+
+  &__navbar {
+    &__collapse {
+      align-items: center;
+      display: flex;
+      justify-content: space-between;
+      margin: 0 auto;
+      max-width: 1220px;
+      padding: 0 1rem;
+      width: 100%;
+    }
+
+    &__list {
+      display: flex;
+    }
+
+    &__item {
+      padding: 0 .2rem;
+
+      a {
+        padding: .8rem .6rem;
+      }
+
+      &:not(:last-child) {
+        border-right: 1px solid hsla(0, 0%, 100%, .25);
+      }
+
+      &:hover {
+        color: $navigation-background;
+
+        a {
+          background-color: $navigation-color;
+          color: $navigation-background;
+        }
+      }
+    }
+  }
+}

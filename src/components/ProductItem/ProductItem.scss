@@ -1,0 +1,45 @@
+@import '../../styles/share';
+
+$button-disabled: rgba($black, .7);
+
+.product-item {
+  flex-basis: 33.33%;
+  max-width: 33.33%;
+  padding: 1rem;
+
+  &__container {
+    background-color: $athens-gray;
+    padding: 1rem .5rem;
+    position: relative;
+  }
+
+  .button {
+    background-color: $black;
+    border: 0;
+    color: $white;
+    left: 0;
+    padding: 1rem;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+
+    &:disabled {
+      background-color: $button-disabled;
+    }
+  }
+
+  .image__container {
+    margin-bottom: 1rem;
+  }
+
+  h3 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  input {
+    width: 100%;
+  }
+}

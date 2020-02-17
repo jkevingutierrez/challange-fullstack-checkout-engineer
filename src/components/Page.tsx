@@ -4,7 +4,7 @@ import IPageProps from '../interfaces/PageProps';
 
 const Page: FunctionComponent<IPageProps> = props => {
   useEffect(() => {
-    document.title = "Adidas | " + props.title;
+    document.title = `Adidas |  ${props.title}`;
   });
 
   const { title, ...rest } = props;
