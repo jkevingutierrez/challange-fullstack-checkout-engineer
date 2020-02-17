@@ -1,0 +1,42 @@
+
+{
+  "extends": "stylelint-config-standard",
+  "plugins": [
+    "stylelint-scss",
+    "stylelint-order"
+  ],
+  "rules": {
+    "number-leading-zero": "never",
+    "string-quotes": "single",
+    "unit-whitelist": ["em", "rem", "vw", "vh", "%", "px", "deg", "s", "ms"],
+    "declaration-property-value-whitelist": {
+      "font": [
+        "/^\\$/"
+      ],
+      "/color/": [
+        "/^\\$/"
+      ]
+    },
+    "at-rule-no-unknown": [ true, {
+      "ignoreAtRules": [
+        "extends",
+        "ignores",
+        "include",
+        "each",
+        "if",
+        "for",
+        "else",
+        "mixin",
+        "return",
+        "function",
+        "extend"
+      ]
+    }],
+    "scss/at-rule-no-unknown": true,
+    "order/order": [
+			"custom-properties",
+			"declarations"
+		],
+		"order/properties-alphabetical-order": true
+  }
+}
