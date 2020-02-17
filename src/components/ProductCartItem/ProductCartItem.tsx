@@ -1,143 +1,77 @@
 import React, { FunctionComponent, useEffect, useState, useContext } from 'react';
 import { RouteProps } from 'react-router-dom';
 import './ProductCartItem.scss';
-import { Product } from '../../models/product';
 import productsApi from '../../services/products.api';
 import CartContext from '../../CartContext';
 import basketsApi from '../../services/baskets.api';
+import { ProductLineItem } from '../../models/productLineItem';
+import { Shipment } from '../../models/shipment';
 
 interface IProductCartItemProps extends RouteProps {
-  product: Product
+  product: ProductLineItem
 }
 
 const ProductCartItem: FunctionComponent<IProductCartItemProps> = props => {
   const { cart, setCart } = useContext(CartContext);
 
   const [price, setPrice] = useState(0);
-  const [availability, setAvailability] = useState({
-    availability_status: '',
-    variation_list: [] as any[],
-    selectedElement: {
-      sku: '',
-      quantity: 0,
-      maxQuantity: 0,
-    },
-  });
 
   useEffect(() => {
     productsApi.get(props?.product?.productId)
       .then((response) => {
         setPrice(response?.pricing_information?.currentPrice);
       });
-
-    productsApi.checkAvailability(props?.product?.productId)
-      .then((response) => {
-        setAvailability({
-          availability_status: response?.availability_status,
-          variation_list: response?.variation_list,
-          selectedElement: {
-            sku: '',
-            quantity: 0,
-            maxQuantity: 0,
-          },
-        });
-      });
   }, [props]);
 
-  const handleChangeSize = (event: React.ChangeEvent<HTMLSelectElement>) => {
-    const index = Number(event?.target?.value);
-    const element = availability?.variation_list[index];
-
-    setAvailability((prevState) => ({
-      ...prevState,
-      selectedElement: {
-        ...prevState?.selectedElement,
-        sku: element?.sku,
-        maxQuantity: element?.availability,
-      },
-    }));
-  };
-
-  const handleChangeQuantity = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const quantity = Number(event?.target?.value);
-
-    setAvailability((prevState) => ({
-      ...prevState,
-      selectedElement: {
-        ...prevState?.selectedElement,
-        quantity: quantity,
-      },
-    }));
-  };
-
-  const handleAddTocart = (event: React.FormEvent) => {
+  const handleRemoveFromCart = (event: React.FormEvent) => {
     event.preventDefault();
 
-    if (validateFields()) {
-      const { selectedElement } = availability;
-
-      basketsApi.addProduct(basketsApi.getId(), {
-        productId: selectedElement.sku,
-        quantity: selectedElement.quantity,
-      }).then((response) => {
-        setCart({
-          ...cart,
-        });
+    basketsApi.removeProduct(basketsApi.getId(), props?.product?.productId).then((response) => {
+      const products = cart?.shipmentList?.[0]?.productLineItemList?.filter(product => {
+        return product?.productId !== props?.product?.productId;
       });
-    }
-  }
 
-  const validateFields = () => {
-    const { selectedElement } = availability
-
-    if (selectedElement?.quantity <= selectedElement.maxQuantity && selectedElement?.sku && selectedElement?.quantity > 0) {
-      return true;
-    }
-
-    return false;
+      setCart({
+        ...cart,
+        shipmentList: [
+          { productLineItemList: products }
+        ] as Shipment[],
+      });
+    });
   }
 
   return (
     <>
       {
-        props?.product?.productId && props?.product?.displayName && availability?.availability_status === 'IN_STOCK' && (
+        props?.product?.productId && props?.product?.productName && (props?.product?.quantity || 0) > 0 && (props?.product?.availableStock || 0) > 0 && (
           <li className="product-cart-item">
             <div className="product-item__container">
               <div className="image__container">
-                <img className="image" src={props?.product?.image?.src} alt={props?.product?.division} />
+                <img className="image" src={props?.product?.productImage} alt={props?.product?.productName} />
               </div>
               <div>
-                <span>{props?.product?.division}</span>
-                <h3>{props?.product?.displayName.replace(/\s/g, ' ')}</h3>
-                <span>{price > 0 ? `$${price}` : 'Loading...'}</span>
+                <h3 title={props?.product?.productName}>{props?.product?.productName.replace(/\s/g, ' ')}</h3>
+                <p>{price > 0 ? `Price: $${price}` : 'Loading...'}</p>
               </div>
-              <form onSubmit={handleAddTocart}>
-                {
-                  availability?.variation_list?.length > 0 && (
-                    <>
-                      <label>
-                        Choose a size:
-                        <select id="size" onChange={handleChangeSize} required>
-                            <option value=""></option>
-                            {
-                              availability?.variation_list?.map((variation: any, index: number) => (
-                                <option value={index}>
-                                  {variation?.size}
-                                </option>
-                              ))
-                            }
-                          </select>
-                        </label>
-
-                      <label>
-                        Quantity:
-                        <input type="number" min="0" max={availability?.selectedElement?.maxQuantity} value={availability?.selectedElement?.quantity} onChange={handleChangeQuantity} required />
-                      </label>
-                    </>
-                  )
-                }
+              <form onSubmit={handleRemoveFromCart}>
                 <div>
-                  <button type="submit" className="button" disabled={!validateFields()}>Add to cart</button>
+                  <label>
+                    Choose a size:
+                    <select disabled>
+                      <option value={props?.product?.size}>
+                        {props?.product?.size}
+                      </option>
+                    </select>
+                  </label>
+                </div>
+                <div>
+                  <label>
+                    Quantity:
+                    <input type="number" value={props?.product?.quantity} disabled />
+                  </label>
+                </div>
+                <div>
+                  <button type="submit" className="button">Remove from cart</button>
                 </div>
               </form>
             </div>

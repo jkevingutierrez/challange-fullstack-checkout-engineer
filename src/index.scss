@@ -6,6 +6,10 @@
   box-sizing: border-box;
 }
 
+:disabled {
+  cursor: not-allowed;
+}
+
 body {
   font-family: $primary-font;
   -moz-osx-font-smoothing: grayscale;
@@ -14,7 +18,8 @@ body {
   word-break: break-word;
 }
 
-button {
+button,
+select {
   cursor: pointer;
 
   &:disabled {

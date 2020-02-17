@@ -5,13 +5,14 @@ import { Product } from '../../models/product';
 import productsApi from '../../services/products.api';
 import CartContext from '../../CartContext';
 import basketsApi from '../../services/baskets.api';
+import { Basket } from '../../models/basket';
 
 interface IProductItemProps extends RouteProps {
   product: Product
 }
 
 const ProductItem: FunctionComponent<IProductItemProps> = props => {
-  const { cart, setCart } = useContext(CartContext);
+  const { setCart } = useContext(CartContext);
 
   const [price, setPrice] = useState(0);
   const [availability, setAvailability] = useState({
@@ -79,11 +80,11 @@ const ProductItem: FunctionComponent<IProductItemProps> = props => {
       basketsApi.addProduct(basketsApi.getId(), {
         productId: selectedElement.sku,
         quantity: selectedElement.quantity,
-      }).then((response) => {
+      }).then((response: Basket) => {
         console.log(response);
 
         setCart({
-          ...cart,
+          ...response,
         });
       });
     }
@@ -102,42 +103,39 @@ const ProductItem: FunctionComponent<IProductItemProps> = props => {
   return (
     <>
       {
-        props?.product?.productId && props?.product?.displayName && availability?.availability_status === 'IN_STOCK' && (
+        props?.product?.productId && props?.product?.displayName && (
           <li className="product-item">
             <div className="product-item__container">
               <div className="image__container">
-                <img className="image" src={props?.product?.image?.src} alt={props?.product?.division} />
+                <img className="image" src={props?.product?.image?.src} alt={props?.product?.displayName} />
               </div>
               <div>
                 <span>{props?.product?.division}</span>
-                <h3>{props?.product?.displayName.replace(/\s/g, ' ')}</h3>
-                <span>{price > 0 ? `$${price}` : 'Loading...'}</span>
+                <h3 title={props?.product?.displayName}>{props?.product?.displayName.replace(/\s/g, ' ')}</h3>
+                <p>{price > 0 ? `Price: $${price}` : 'Loading...'}</p>
               </div>
               <form onSubmit={handleAddTocart}>
-                {
-                  availability?.variation_list?.length > 0 && (
-                    <>
-                      <label>
-                        Choose a size:
-                        <select id="size" onChange={handleChangeSize} required>
-                            <option value=""></option>
-                            {
-                              availability?.variation_list?.map((variation: any, index: number) => (
-                                <option value={index}>
-                                  {variation?.size}
-                                </option>
-                              ))
-                            }
-                          </select>
-                        </label>
-
-                      <label>
-                        Quantity:
-                        <input type="number" min="0" max={availability?.selectedElement?.maxQuantity} value={availability?.selectedElement?.quantity} onChange={handleChangeQuantity} required />
-                      </label>
-                    </>
-                  )
-                }
+                <div>
+                  <label>
+                    Choose a size:
+                    <select onChange={handleChangeSize} required>
+                      <option value=""></option>
+                      {
+                        availability?.variation_list?.map((variation: any, index: number) => (
+                          <option value={index}>
+                            {variation?.size}
+                          </option>
+                        ))
+                      }
+                    </select>
+                  </label>
+                </div>
+                <div>
+                  <label>
+                    Quantity:
+                    <input type="number" min="0" max={availability?.selectedElement?.maxQuantity} value={availability?.selectedElement?.quantity} onChange={handleChangeQuantity} required />
+                  </label>
+                </div>
                 <div>
                   <button type="submit" className="button" disabled={!validateFields()}>Add to cart</button>
                 </div>

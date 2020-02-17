@@ -1,19 +1,15 @@
-import React, { FunctionComponent, useContext } from 'react';
-import { RouteProps } from 'react-router-dom';
+import React, { useContext } from 'react';
 import './Cart.scss';
 import ProductCartList from '../ProductCartList/ProductCartList';
 import CartContext from '../../CartContext';
 
-interface ICartProps extends RouteProps {
-}
-
-const Cart: FunctionComponent<ICartProps> = props => {
+function Cart() {
   const { cart } = useContext(CartContext);
 
   return (
     <div>
       <div>
-        <ProductCartList products={[]} />
+        <ProductCartList products={cart?.shipmentList?.[0]?.productLineItemList} />
       </div>
     </div>
   );

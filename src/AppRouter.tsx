@@ -11,15 +11,15 @@ function AppRouter() {
   return (
     <BrowserRouter>
       <CartProvider>
-          <Navigation />
-          <main>
+        <Navigation />
+        <main>
             <Switch>
               <Page path="/cart" component={ShoppingCart} title="Shopping Cart" />
               <ProductsProvider>
                 <Page path="/" component={Products} title="Index" />
               </ProductsProvider>
             </Switch>
-          </main>
+        </main>
       </CartProvider>
     </BrowserRouter>
   );

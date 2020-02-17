@@ -3,9 +3,24 @@
 $button-disabled: rgba($black, .7);
 
 .product-cart-item {
-  flex-basis: 33.33%;
-  max-width: 33.33%;
+  flex-basis: 100%;
+  max-width: 100%;
   padding: 1rem;
+
+  @include from(mobile-medium) {
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+
+  @include from(tablet-medium) {
+    flex-basis: 33.33%;
+    max-width: 33.33%;
+  }
+
+  @include from(desktop-xl) {
+    flex-basis: 25%;
+    max-width: 25%;
+  }
 
   &__container {
     background-color: $athens-gray;
@@ -31,6 +46,7 @@ $button-disabled: rgba($black, .7);
 
   .image__container {
     margin-bottom: 1rem;
+    text-align: center;
   }
 
   h3 {
@@ -39,7 +55,8 @@ $button-disabled: rgba($black, .7);
     white-space: nowrap;
   }
 
-  input {
+  input,
+  select {
     width: 100%;
   }
 }
