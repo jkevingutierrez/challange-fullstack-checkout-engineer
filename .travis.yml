@@ -26,8 +26,9 @@ script:
   - npm test
 
 deploy:
-  - provider: script
-    script: npm run deploy
-    keep_history: true
-    on:
-      branch: master
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: build
+  on:
+    branch: master
