@@ -113,4 +113,4 @@ class BasketsService extends BaseApi {
   }
 }
 
-export default new BasketsService(isDevelopment() ? BasketsApi : MockBasketsApi);
+export default new BasketsService(isDevelopment() ? MockBasketsApi : BasketsApi);

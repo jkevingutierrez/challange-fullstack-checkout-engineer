@@ -1,5 +1,5 @@
 export const isDevelopment = () => {
-  if (window?.location?.host === 'localhost') {
+  if (window?.location?.hostname === 'localhost') {
     return true;
   }
 

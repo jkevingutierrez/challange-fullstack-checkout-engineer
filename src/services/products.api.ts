@@ -42,4 +42,4 @@ class ProductsService extends BaseApi {
   }
 }
 
-export default new ProductsService(isDevelopment() ? ProductsApi : MockProductsApi);
+export default new ProductsService(isDevelopment() ? MockProductsApi : ProductsApi);

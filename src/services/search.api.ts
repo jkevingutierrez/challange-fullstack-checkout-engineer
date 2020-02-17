@@ -47,4 +47,4 @@ class SearchService extends BaseApi {
   }
 }
 
-export default new SearchService(isDevelopment() ? SearchApi : MockSearchApi);
+export default new SearchService(isDevelopment() ? MockSearchApi : SearchApi);
