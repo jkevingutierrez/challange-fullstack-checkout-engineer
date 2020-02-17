@@ -7,8 +7,7 @@ services:
   - docker
 
 before_install:
-  - docker-compose -f docker-compose.dev.yml up -d
-  - docker-compose -f docker-compose.yml up -d
+  - docker-compose -f docker-compose.dev.yml up -d --remove-orphans
 
 cache:
   directories:
@@ -20,8 +19,8 @@ script:
   - npm run cypress
 
 deploy:
-  provider: script
-  script: bash scripts/gh-deploy.sh
-  keep_history: true
-  on:
-    branch: gh-pages
+  - provider: script
+    script: bash scripts/gh-deploy.sh
+    keep_history: true
+    on:
+      branch: master
