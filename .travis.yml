@@ -6,6 +6,10 @@ node_js:
 services:
   - docker
 
+branches:
+  only:
+    - master
+
 before_install:
   - docker-compose -f docker-compose.dev.yml up --detach --remove-orphans
 
@@ -13,14 +17,19 @@ cache:
   directories:
     - node_modules
 
-script:
-  - npm test
-  - npm run build
-  - npm run cypress
-
-deploy:
-  - provider: script
-    script: bash scripts/gh-deploy.sh
-    keep_history: true
-    on:
-      branch: master
+jobs:
+  include:
+    - stage: build
+      script: npm run build
+    - stage: test
+      script: npm test
+    - stage: cypress
+      script: npm run cypress
+    - stage: deploy
+      script: skip
+      deploy:
+        provider: script
+        script: bash scripts/gh-deploy.sh
+        keep_history: true
+        on:
+          branch: master
