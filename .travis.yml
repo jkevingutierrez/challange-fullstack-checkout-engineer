@@ -7,15 +7,14 @@ services:
   - docker
 
 before_install:
-  - docker-compose -f docker-compose.dev.yml up
-  - docker-compose -f docker-compose.yml up
+  - docker-compose -f docker-compose.dev.yml up -d
+  - docker-compose -f docker-compose.yml up -d
 
 cache:
   directories:
     - node_modules
 
 script:
-  - npm start --silent &
   - npm test
   - npm run build
   - npm run cypress
