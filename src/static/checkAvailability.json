@@ -1,0 +1,35 @@
+{
+  "id": "GR0781",
+  "availability_status": "IN_STOCK",
+  "variation_list": [{
+      "sku": "GR0781_230",
+      "availability": 15,
+      "availability_status": "IN_STOCK",
+      "size": "S"
+    },
+    {
+      "sku": "GR0781_250",
+      "availability": 15,
+      "availability_status": "IN_STOCK",
+      "size": "M"
+    },
+    {
+      "sku": "GR0781_270",
+      "availability": 0,
+      "availability_status": "NOT_AVAILABLE",
+      "size": "L"
+    },
+    {
+      "sku": "GR0781_290",
+      "availability": 15,
+      "availability_status": "IN_STOCK",
+      "size": "XL"
+    },
+    {
+      "sku": "GR0781_310",
+      "availability": 15,
+      "availability_status": "IN_STOCK",
+      "size": "2XL"
+    }
+  ]
+}
