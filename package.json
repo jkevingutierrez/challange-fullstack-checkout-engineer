@@ -25,6 +25,7 @@
     "test": "react-scripts test --watchAll=false",
     "test:dev": "react-scripts test",
     "cypress:open": "cypress open",
+    "cypress": "cypress run",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

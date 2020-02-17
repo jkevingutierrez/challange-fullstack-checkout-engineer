@@ -1,0 +1,28 @@
+language: node_js
+
+node_js:
+  - 12
+
+services:
+  - docker
+
+before_install:
+  - docker-compose -f docker-compose.dev.yaml up
+  - docker-compose -f docker-compose.yaml up
+
+cache:
+  directories:
+    - node_modules
+
+script:
+  - npm start --silent &
+  - npm test
+  - npm run build
+  - npm run cypress
+
+deploy:
+  provider: script
+  script: bash scripts/gh-deploy.sh
+  keep_history: true
+  on:
+    branch: gh-pages
