@@ -1,9 +1,9 @@
 import React from 'react';
-import { render } from '@testing-library/react';
+import { getByText, render } from '@testing-library/react';
 import ProductList from './ProductList';
 
-test('ProductList', () => {
-  const { getByText } = render(<ProductList  products={[]}/>);
-  const textElement = getByText(/Home/i);
-  expect(textElement).toBeInTheDocument();
+test('ProductList empty', () => {
+  const { getByText } = render(<ProductList products={[]} />);
+  const countTextElement = getByText(/0 Products/i);
+  expect(countTextElement).toBeInTheDocument();
 });

@@ -4,6 +4,9 @@ import { BasketModification } from "../models/basketModification";
 import { ProductToAdd } from "../models/productToAdd";
 import { Basket } from "../models/basket";
 import { ErrorResponse } from "../models/errorResponse";
+import mockBasket from '../static/basket.json';
+import mockEmptyBasket from '../static/emptyBasket.json';
+
 
 const BASKETS_API_URL = 'https://www.adidas.com/api/checkout/baskets/'
 
@@ -25,19 +28,19 @@ const MockBasketsApi = (path?: string, options = {} as any) => {
     resolve => {
       window.setTimeout(() => {
         if (path?.includes('items') && options?.method?.includes('POST')) {
-          resolve({});
+          resolve(mockBasket);
         } else if (path?.includes('items') && options?.method?.includes('DELETE')) {
-          resolve({});
+          resolve(mockEmptyBasket);
         } else if (path?.includes('items') && options?.method?.includes('PATCH')) {
           resolve({});
         } else if (options?.method?.includes('POST')) {
-          resolve({});
+          resolve(mockEmptyBasket);
         } else if (options?.method?.includes('DELETE')) {
           resolve({});
         } else if (options?.method?.includes('PATCH')) {
           resolve({});
         } else {
-          resolve({})
+          resolve(mockBasket)
         }
       }, Math.random() * 2000 + 1000);
     }

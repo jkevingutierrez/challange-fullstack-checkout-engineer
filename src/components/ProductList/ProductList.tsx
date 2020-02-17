@@ -10,13 +10,16 @@ interface IProductListProps extends RouteProps {
 
 const ProductList: FunctionComponent<IProductListProps> = props => {
   return (
-    <ul className="product-list">
-      {
-        props.products.map((product) => (
-          <ProductItem product={product} key={product.productId} />
-        ))
-      }
-    </ul>
+    <div className="product-list__container">
+      <h4>{props.products.length} Products</h4>
+      <ul className="product-list">
+        {
+          props.products.map((product) => (
+            <ProductItem product={product} key={product.productId} />
+          ))
+        }
+      </ul>
+    </div>
   );
 };
 

@@ -4,20 +4,23 @@ import Page from './components/Page';
 import Navigation from './components/Navigation/Navigation';
 import Products from './pages/Products';
 import ShoppingCart from './pages/ShoppingCart';
-import AppProvider from './AppProvider';
+import CartProvider from './CartProvider';
+import ProductsProvider from './ProductsProvider';
 
 function AppRouter() {
   return (
     <BrowserRouter>
-      <AppProvider>
-        <Navigation />
-        <main>
-          <Switch>
-            <Page path="/cart" component={ShoppingCart} title="Shopping Cart" />
-            <Page path="/" component={Products} title="Index" />
-          </Switch>
-        </main>
-      </AppProvider>
+      <CartProvider>
+          <Navigation />
+          <main>
+            <Switch>
+              <Page path="/cart" component={ShoppingCart} title="Shopping Cart" />
+              <ProductsProvider>
+                <Page path="/" component={Products} title="Index" />
+              </ProductsProvider>
+            </Switch>
+          </main>
+      </CartProvider>
     </BrowserRouter>
   );
 }

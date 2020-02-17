@@ -1,15 +1,14 @@
-import React, { FunctionComponent, useContext } from 'react';
-import IPageProps from '../interfaces/PageProps';
+import React, { useContext } from 'react';
 import ProductList from '../components/ProductList/ProductList';
-import AppContext from '../AppContext';
+import ProductsContext from '../ProductsContext';
 
-const Products: FunctionComponent<IPageProps> = props => {
-  const app = useContext(AppContext);
+function Products() {
+  const { products } = useContext(ProductsContext);
 
   return (
     <div className="products">
       <h1>Products Page</h1>
-      <ProductList products={app.globalState.products}/>
+      <ProductList products={products} />
     </div>
     );
 };

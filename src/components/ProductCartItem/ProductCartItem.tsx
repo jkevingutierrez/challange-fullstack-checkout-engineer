@@ -3,7 +3,7 @@ import { RouteProps } from 'react-router-dom';
 import './ProductCartItem.scss';
 import { Product } from '../../models/product';
 import productsApi from '../../services/products.api';
-import AppContext from '../../AppContext';
+import CartContext from '../../CartContext';
 import basketsApi from '../../services/baskets.api';
 
 interface IProductCartItemProps extends RouteProps {
@@ -11,7 +11,7 @@ interface IProductCartItemProps extends RouteProps {
 }
 
 const ProductCartItem: FunctionComponent<IProductCartItemProps> = props => {
-  const { globalState, setGlobalState } = useContext(AppContext);
+  const { cart, setCart } = useContext(CartContext);
 
   const [price, setPrice] = useState(0);
   const [availability, setAvailability] = useState({
@@ -80,8 +80,8 @@ const ProductCartItem: FunctionComponent<IProductCartItemProps> = props => {
         productId: selectedElement.sku,
         quantity: selectedElement.quantity,
       }).then((response) => {
-        setGlobalState({
-          ...globalState,
+        setCart({
+          ...cart,
         });
       });
     }

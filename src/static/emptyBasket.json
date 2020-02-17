@@ -1,0 +1,45 @@
+{
+  "basketId": "f18316486d6c7bcbdb790c9478",
+  "currency": "USD",
+  "modifiedDate": "2020-02-16T22:27:10.790Z",
+  "pricing": {
+    "total": 0,
+    "baseTotal": 0,
+    "totalTax": 0,
+    "productTotal": 0,
+    "productTotalBeforeDiscounts": 0,
+    "productTotalBeforeOrderDiscounts": 0,
+    "shippingTotal": 0,
+    "shippingBaseTotal": 0
+  },
+  "resourceState": "668b047ef74c4e7c87cf6f48f56fd277bdad7634e8fa0dc5e9d4919ba2328b0f",
+  "taxationPolicy": "net",
+  "totalProductCount": 0,
+  "messageList": [{
+      "type": "ProductItemsRequired"
+    },
+    {
+      "type": "PaymentMethodRequired"
+    },
+    {
+      "type": "BillingAddressRequired"
+    },
+    {
+      "type": "ShippingAddressRequired",
+      "details": {
+        "shipmentId": "me"
+      }
+    },
+    {
+      "type": "ShippingMethodRequired",
+      "details": {
+        "shipmentId": "me"
+      }
+    }
+  ],
+  "customer": {
+    "customerId": "acoZ3MaYc9f5riIHXAE9CAi9w0",
+    "isLoggedIn": false
+  },
+  "freeShippingThreshold": 0
+}
