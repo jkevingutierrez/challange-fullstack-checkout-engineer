@@ -31,6 +31,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage": "https://jkevingutierrez.github.io/challange-fullstack-checkout-engineer",
   "browserslist": {
     "production": [
       ">0.2%",
