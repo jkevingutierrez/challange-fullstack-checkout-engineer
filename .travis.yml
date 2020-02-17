@@ -17,19 +17,14 @@ cache:
   directories:
     - node_modules
 
-jobs:
-  include:
-    - stage: build
-      script: npm run build
-    - stage: test
-      script: npm test
-    - stage: cypress
-      script: npm run cypress
-    - stage: deploy
-      script: skip
-      deploy:
-        provider: script
-        script: bash scripts/gh-deploy.sh
-        keep_history: true
-        on:
-          branch: master
+script:
+  - npm run build
+  - npm run cypress
+  - npm test
+
+deploy:
+  - provider: script
+    script: bash scripts/gh-deploy.sh
+    keep_history: true
+    on:
+      branch: master
