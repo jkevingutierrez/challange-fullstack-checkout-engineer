@@ -1,5 +1,6 @@
 import { isDevelopment } from "./environment";
 import BaseApi from "./base.api";
+import errorService from './error.api';
 import mockTFJson from '../static/searchTF.json';
 import mockProductJson from '../static/searchProduct.json';
 import { Product } from "../models/product";
@@ -9,10 +10,11 @@ const SEARCH_API_URL = 'https://www.adidas.com/api/search/'
 const SearchApi = (path?: string, options = {}) => {
   const url = `${SEARCH_API_URL}${path}`;
 
-  console.log(`Calling ${url} with options`, options);
-
   return fetch(url, options)
-    .then(res => res.json());
+    .then(res => res.json())
+    .catch(error => {
+      errorService.reportError(error);
+    });
 };
 
 const MockSearchApi = (path?: string, options = {}) => {

@@ -1,21 +1,22 @@
 import { isDevelopment } from "./environment";
 import BaseApi from "./base.api";
+import errorService from './error.api';
 import { BasketModification } from "../models/basketModification";
 import { ProductToAdd } from "../models/productToAdd";
 import { Basket } from "../models/basket";
 import mockBasket from '../static/basket.json';
 import mockEmptyBasket from '../static/emptyBasket.json';
 
-
 const BASKETS_API_URL = 'https://www.adidas.com/api/checkout/baskets/'
 
 const BasketsApi = (path?: string, options = {} as any) => {
   const url = `${BASKETS_API_URL}${path}`;
 
-  console.log(`Calling ${url} with options`, options);
-
   return fetch(url, options)
-    .then(response => response.json());
+    .then(response => response.json())
+    .catch(error => {
+      errorService.reportError(error);
+    });
 };
 
 const MockBasketsApi = (path?: string, options = {} as any) => {

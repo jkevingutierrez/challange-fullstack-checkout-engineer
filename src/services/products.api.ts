@@ -1,5 +1,6 @@
 import { isDevelopment } from "./environment";
 import BaseApi from "./base.api";
+import errorService from './error.api';
 import mockGetProduct from '../static/getProduct.json';
 import mockCheckAvailability from '../static/checkAvailability.json';
 
@@ -8,10 +9,11 @@ const PRODUCTS_API_URL = 'https://www.adidas.com/api/products/'
 const ProductsApi = (path?: string, options = {}) => {
   const url = `${PRODUCTS_API_URL}${path}`;
 
-  console.log(`Calling ${url} with options`, options);
-
   return fetch(url, options)
-    .then(response => response.json());
+    .then(response => response.json())
+    .catch(error => {
+      errorService.reportError(error);
+    });
 };
 
 const MockProductsApi = (path?: string, options = {}) => {
