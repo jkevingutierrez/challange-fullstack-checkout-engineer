@@ -1,6 +1,8 @@
 import React from 'react';
-import { getByText, render } from '@testing-library/react';
+import { render, cleanup } from '@testing-library/react';
 import ProductList from './ProductList';
+
+afterEach(cleanup);
 
 test('ProductList empty', () => {
   const { getByText } = render(<ProductList products={[]} />);

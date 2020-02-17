@@ -7,7 +7,7 @@ services:
   - docker
 
 before_install:
-  - docker-compose -f docker-compose.dev.yml up -d --remove-orphans
+  - docker-compose -f docker-compose.dev.yml up --detach --remove-orphans
 
 cache:
   directories:
