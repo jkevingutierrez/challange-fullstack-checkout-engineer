@@ -1,0 +1,13 @@
+// Breakpoints
+$default: (default, 0);
+$mobile: (mobile, 320px);
+$mobile-medium: (mobile-medium, 375px);
+$mobile-large: (mobile-large, 425px);
+$tablet: (tablet, 600px);
+$tablet-medium: (tablet-medium, 768px);
+$tablet-large: (tablet-large, 900px);
+$desktop: (desktop, 1024px);
+$desktop-large: (desktop-large, 1440px);
+$desktop-xl: (desktop-xl, 1920px);
+$hi-res: (hi-res, 2560px);
+$breakpoints: ($default, $mobile, $mobile-medium, $mobile-large, $tablet, $tablet-medium, $tablet-large, $desktop, $desktop-large, $desktop-xl, $hi-res);

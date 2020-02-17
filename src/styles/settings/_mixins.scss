@@ -1,0 +1,47 @@
+
+@import './breakpoints';
+
+// Greater or equal than $prefix.
+@mixin from($prefix) {
+  @each $bp in $breakpoints {
+    @if $prefix==nth($bp, 1) {
+      @media all and (min-width: nth($bp, 2)) {
+        @content;
+      }
+    }
+  }
+}
+
+// Less than $prefix.
+@mixin before($prefix) {
+  @each $bp in $breakpoints {
+    @if $prefix==nth($bp, 1) {
+      @media all and (max-width: nth($bp, 2) - 1) {
+        @content;
+      }
+    }
+  }
+}
+
+// Greater or equal than $from and Less than $before.
+@mixin between($from, $before) {
+  $min-width: null;
+
+  @each $bp in $breakpoints {
+    @if $from==nth($bp, 1) {
+      $min-width: nth($bp, 2);
+    }
+  }
+
+  $max-width: null;
+
+  @each $bp in $breakpoints {
+    @if $before==nth($bp, 1) {
+      $max-width: nth($bp, 2) - 1;
+    }
+  }
+
+  @media all and (min-width: #{$min-width}) and (max-width: #{$max-width}) {
+    @content;
+  }
+}
