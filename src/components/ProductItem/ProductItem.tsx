@@ -77,12 +77,12 @@ const ProductItem: FunctionComponent<IProductItemProps> = props => {
     if (validateFields()) {
       const { selectedElement } = availability;
 
-      basketsApi.addProduct(basketsApi.getId(), {
+      const basketId = basketsApi.getId();
+
+      basketsApi.addProduct(basketId, {
         productId: selectedElement.sku,
         quantity: selectedElement.quantity,
       }).then((response: Basket) => {
-        console.log(response);
-
         setCart({
           ...response,
         });

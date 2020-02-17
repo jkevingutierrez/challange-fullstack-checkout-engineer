@@ -8,6 +8,7 @@ import mockBasket from '../static/basket.json';
 import mockEmptyBasket from '../static/emptyBasket.json';
 
 const BASKETS_API_URL = 'https://www.adidas.com/api/checkout/baskets/'
+const BASKET_KEY_NAME = 'basketId';
 
 const BasketsApi = (path?: string, options = {} as any) => {
   const url = `${BASKETS_API_URL}${path}`;
@@ -34,13 +35,13 @@ const MockBasketsApi = (path?: string, options = {} as any) => {
         } else if (path?.includes('items') && options?.method?.includes('PATCH')) {
           resolve({});
         } else if (options?.method?.includes('POST')) {
-          resolve(mockEmptyBasket);
+          resolve(mockBasket);
         } else if (options?.method?.includes('DELETE')) {
           resolve({});
         } else if (options?.method?.includes('PATCH')) {
           resolve({});
         } else {
-          resolve(mockBasket)
+          resolve(mockEmptyBasket)
         }
       }, Math.random() * 1000 + 1000);
     }
@@ -49,7 +50,12 @@ const MockBasketsApi = (path?: string, options = {} as any) => {
 
 class BasketsService extends BaseApi {
   getId() {
-    return 'f18316486d6c7bcbdb790c9478';
+    const basketId = localStorage.getItem(BASKET_KEY_NAME);
+    if (!basketId) {
+      this.create();
+    }
+
+    return basketId || '';
   }
 
   get(id: string): Promise<Basket> {
@@ -61,7 +67,11 @@ class BasketsService extends BaseApi {
       method: 'POST',
     };
 
-    return this.api('', options);
+    return this.api('', options)
+      .then((response: Basket) => {
+        localStorage.setItem(BASKET_KEY_NAME, response.basketId);
+        return response;
+      });
   }
 
   delete(id: string): Promise<string> {
@@ -69,7 +79,10 @@ class BasketsService extends BaseApi {
       method: 'DELETE',
     };
 
-    return this.api(id, options);
+    return this.api(id, options).then((response) => {
+      localStorage.removeItem(BASKET_KEY_NAME);
+      return response;
+    });
   }
 
   update(id: string, parameters: BasketModification): Promise<Basket> {
