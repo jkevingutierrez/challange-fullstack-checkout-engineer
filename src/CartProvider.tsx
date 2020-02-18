@@ -1,15 +1,22 @@
 import React, { FunctionComponent, useState, useEffect } from 'react';
 import CartContext from './CartContext';
 import { Basket } from './models/basket';
+import basketsApi from './services/baskets.api';
 
 const CartProvider: FunctionComponent = props => {
   const [cart, setCart] = useState({} as Basket);
 
   useEffect(() => {
-    setCart({
-      totalProductCount: 600,
-    } as Basket);
-  }, []);
+    const basketId = basketsApi.getId();
+
+    if (basketId) {
+      basketsApi.get(basketId).then((response: Basket) => {
+        setCart({
+          ...response,
+        } as Basket);
+      });
+    }
+  }, [])
 
   const value = { cart, setCart };
 

@@ -17,10 +17,14 @@ const ProductCartItem: FunctionComponent<IProductCartItemProps> = props => {
   const [price, setPrice] = useState(0);
 
   useEffect(() => {
-    productsApi.get(props?.product?.productId)
-      .then((response) => {
-        setPrice(response?.pricing_information?.currentPrice);
-      });
+    if (props?.product?.pricing?.price) {
+      setPrice(props?.product?.pricing?.price);
+    } else {
+      productsApi.get(props?.product?.productId)
+        .then((response) => {
+          setPrice(response?.pricing_information?.currentPrice);
+        });
+    }
   }, [props]);
 
   const handleRemoveFromCart = (event: React.FormEvent) => {
@@ -56,12 +60,7 @@ const ProductCartItem: FunctionComponent<IProductCartItemProps> = props => {
               <form onSubmit={handleRemoveFromCart}>
                 <div>
                   <label>
-                    Choose a size:
-                    <select disabled>
-                      <option value={props?.product?.size}>
-                        {props?.product?.size}
-                      </option>
-                    </select>
+                    Size: {props?.product?.size}
                   </label>
                 </div>
                 <div>
