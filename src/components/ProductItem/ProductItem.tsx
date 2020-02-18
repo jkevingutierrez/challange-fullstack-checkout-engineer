@@ -8,7 +8,7 @@ import { Basket } from '../../models/basket';
 import LazyLoadImage from '../LazyLoadImage';
 
 interface IProductItemProps {
-  product: Product
+  product: Product;
 }
 
 const ProductItem: FunctionComponent<IProductItemProps> = props => {
@@ -134,7 +134,7 @@ const ProductItem: FunctionComponent<IProductItemProps> = props => {
                       <option value=""></option>
                       {
                         availability?.variation_list?.map((variation: any, index: number) => (
-                          <option value={index} disabled={variation?.availability_status === 'NOT_AVAILABLE'}>
+                          <option value={index} disabled={variation?.availability_status === 'NOT_AVAILABLE'} key={index}>
                             {variation?.size}
                           </option>
                         ))

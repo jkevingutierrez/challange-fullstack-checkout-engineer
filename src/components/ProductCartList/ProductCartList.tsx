@@ -17,7 +17,7 @@ const ProductCartList: FunctionComponent<IProductCartListProps> = props => {
       <ul className="product-cart-list">
         {
           props?.products?.map((product) => (
-            <ProductCartItem product={product} key={product.productId} />
+            <ProductCartItem product={product} key={product?.productId} />
           ))
         }
       </ul>
