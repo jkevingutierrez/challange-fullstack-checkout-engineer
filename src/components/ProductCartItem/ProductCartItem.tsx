@@ -4,7 +4,6 @@ import productsApi from '../../services/products.api';
 import CartContext from '../../CartContext';
 import basketsApi from '../../services/baskets.api';
 import { ProductLineItem } from '../../models/productLineItem';
-import { Shipment } from '../../models/shipment';
 import LazyLoadImage from '../LazyLoadImage';
 
 interface IProductCartItemProps {
@@ -12,7 +11,7 @@ interface IProductCartItemProps {
 }
 
 const ProductCartItem: FunctionComponent<IProductCartItemProps> = props => {
-  const { cart, setCart } = useContext(CartContext);
+  const { setCart } = useContext(CartContext);
 
   const [price, setPrice] = useState(0);
 
@@ -31,15 +30,8 @@ const ProductCartItem: FunctionComponent<IProductCartItemProps> = props => {
     event.preventDefault();
 
     basketsApi.removeProduct(basketsApi.getId(), props?.product?.productId).then((response) => {
-      const products = cart?.shipmentList?.[0]?.productLineItemList?.filter(product => {
-        return product?.productId !== props?.product?.productId;
-      });
-
       setCart({
-        ...cart,
-        shipmentList: [
-          { productLineItemList: products }
-        ] as Shipment[],
+        ...response
       });
     });
   }

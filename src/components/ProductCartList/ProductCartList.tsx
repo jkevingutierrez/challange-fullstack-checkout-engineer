@@ -1,4 +1,4 @@
-import React, { FunctionComponent, useContext } from 'react';
+import React, { useContext } from 'react';
 import ProductCartItem from '../ProductCartItem/ProductCartItem';
 import './ProductCartList.scss';
 import { ProductLineItem } from '../../models/productLineItem';
@@ -8,16 +8,17 @@ interface IProductCartListProps {
   products?: ProductLineItem[]
 }
 
-const ProductCartList: FunctionComponent<IProductCartListProps> = props => {
+function ProductCartList() {
   const { cart } = useContext(CartContext);
+  const products = cart?.shipmentList?.[0]?.productLineItemList;
 
   return (
     <div className="product-cart-list__container">
-      <h4>TOTAL: ({props?.products?.length || 0} Products) ${cart?.currency}{cart?.pricing?.baseTotal || 0}</h4>
+      <h4>TOTAL: ({products?.length || 0} Products) ${cart?.currency}{cart?.pricing?.total || 0}</h4>
       <ul className="product-cart-list">
         {
-          props?.products?.map((product) => (
-            <ProductCartItem product={product} key={product?.productId} />
+          products?.map((product, index) => (
+            <ProductCartItem product={product} key={`${product?.productId}-${index}`} />
           ))
         }
       </ul>
