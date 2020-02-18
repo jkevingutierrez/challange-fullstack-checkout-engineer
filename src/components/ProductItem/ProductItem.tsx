@@ -1,17 +1,19 @@
-import React, { FunctionComponent, useEffect, useState, useContext } from 'react';
-import { RouteProps } from 'react-router-dom';
+import React, { FunctionComponent, useEffect, useState, useContext, useRef } from 'react';
 import './ProductItem.scss';
 import { Product } from '../../models/product';
 import productsApi from '../../services/products.api';
 import CartContext from '../../CartContext';
 import basketsApi from '../../services/baskets.api';
 import { Basket } from '../../models/basket';
+import LazyLoadImage from '../LazyLoadImage';
 
-interface IProductItemProps extends RouteProps {
+interface IProductItemProps {
   product: Product
 }
 
 const ProductItem: FunctionComponent<IProductItemProps> = props => {
+  const element = useRef({} as any );
+
   const { setCart } = useContext(CartContext);
 
   const [price, setPrice] = useState(0);
@@ -26,23 +28,33 @@ const ProductItem: FunctionComponent<IProductItemProps> = props => {
   });
 
   useEffect(() => {
-    productsApi.get(props?.product?.productId)
-      .then((response) => {
-        setPrice(response?.pricing_information?.currentPrice);
-      });
+    const observer = new IntersectionObserver((entries, observer) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          productsApi.get(props?.product?.productId)
+            .then((response) => {
+              setPrice(response?.pricing_information?.currentPrice);
+            });
 
-    productsApi.checkAvailability(props?.product?.productId)
-      .then((response) => {
-        setAvailability({
-          availability_status: response?.availability_status,
-          variation_list: response?.variation_list,
-          selectedElement: {
-            sku: '',
-            quantity: 0,
-            maxQuantity: 0,
-          },
-        });
+          productsApi.checkAvailability(props?.product?.productId)
+            .then((response) => {
+              setAvailability({
+                availability_status: response?.availability_status,
+                variation_list: response?.variation_list,
+                selectedElement: {
+                  sku: '',
+                  quantity: 0,
+                  maxQuantity: 0,
+                },
+              });
+            });
+
+          observer.disconnect();
+        }
       });
+    });
+
+    observer.observe(element.current as Element);
   }, [props]);
 
   const handleChangeSize = (event: React.ChangeEvent<HTMLSelectElement>) => {
@@ -104,10 +116,10 @@ const ProductItem: FunctionComponent<IProductItemProps> = props => {
     <>
       {
         props?.product?.productId && props?.product?.displayName && (
-          <li className="product-item">
+          <li className="product-item" ref={element}>
             <div className="product-item__container">
               <div className="image__container">
-                <img className="image" src={props?.product?.image?.src} alt={props?.product?.displayName} />
+                <LazyLoadImage className="image" src={props?.product?.image?.src} alt={props?.product?.displayName} loading="lazy" />
               </div>
               <div>
                 <span>{props?.product?.division}</span>

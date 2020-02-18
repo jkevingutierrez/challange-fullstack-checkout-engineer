@@ -1,10 +1,9 @@
 import React, { FunctionComponent } from 'react';
-import { RouteProps } from 'react-router-dom';
 import ProductItem from '../ProductItem/ProductItem';
 import './ProductList.scss';
 import { Product } from '../../models/product';
 
-interface IProductListProps extends RouteProps {
+interface IProductListProps {
   products: Product[]
 }
 

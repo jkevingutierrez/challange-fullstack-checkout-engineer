@@ -1,13 +1,13 @@
 import React, { FunctionComponent, useEffect, useState, useContext } from 'react';
-import { RouteProps } from 'react-router-dom';
 import './ProductCartItem.scss';
 import productsApi from '../../services/products.api';
 import CartContext from '../../CartContext';
 import basketsApi from '../../services/baskets.api';
 import { ProductLineItem } from '../../models/productLineItem';
 import { Shipment } from '../../models/shipment';
+import LazyLoadImage from '../LazyLoadImage';
 
-interface IProductCartItemProps extends RouteProps {
+interface IProductCartItemProps {
   product: ProductLineItem
 }
 
@@ -51,7 +51,7 @@ const ProductCartItem: FunctionComponent<IProductCartItemProps> = props => {
           <li className="product-cart-item">
             <div className="product-item__container">
               <div className="image__container">
-                <img className="image" src={props?.product?.productImage} alt={props?.product?.productName} />
+                <LazyLoadImage className="image" src={props?.product?.productImage} alt={props?.product?.productName} loading="lazy" />
               </div>
               <div>
                 <h3 title={props?.product?.productName}>{props?.product?.productName.replace(/\s/g, ' ')}</h3>

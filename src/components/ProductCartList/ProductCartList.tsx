@@ -1,11 +1,10 @@
 import React, { FunctionComponent, useContext } from 'react';
-import { RouteProps } from 'react-router-dom';
 import ProductCartItem from '../ProductCartItem/ProductCartItem';
 import './ProductCartList.scss';
 import { ProductLineItem } from '../../models/productLineItem';
 import CartContext from '../../CartContext';
 
-interface IProductCartListProps extends RouteProps {
+interface IProductCartListProps {
   products?: ProductLineItem[]
 }
 
