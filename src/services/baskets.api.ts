@@ -8,7 +8,8 @@ import mockBasket from '../static/basket.json';
 import mockEmptyBasket from '../static/emptyBasket.json';
 
 const BASKETS_API_URL = 'https://www.adidas.com/api/checkout/baskets/'
-const BASKET_KEY_NAME = 'basketId';
+const BASKET_ID_KEY_NAME = 'basketId';
+const BASKET_KEY_NAME = 'basket';
 
 const BasketsApi = (path?: string, options = {} as any) => {
   const url = `${BASKETS_API_URL}${path}`;
@@ -28,20 +29,28 @@ const MockBasketsApi = (path?: string, options = {} as any) => {
   return new Promise(
     resolve => {
       window.setTimeout(() => {
+        const basket = localStorage.getItem(BASKET_KEY_NAME);
+
         if (path?.includes('items') && options?.method?.includes('POST')) {
           resolve(mockBasket);
         } else if (path?.includes('items') && options?.method?.includes('DELETE')) {
           resolve(mockEmptyBasket);
         } else if (path?.includes('items') && options?.method?.includes('PATCH')) {
-          resolve({});
+          resolve(mockBasket);
         } else if (options?.method?.includes('POST')) {
           resolve(mockBasket);
         } else if (options?.method?.includes('DELETE')) {
+          localStorage.removeItem(BASKET_KEY_NAME);
           resolve({});
         } else if (options?.method?.includes('PATCH')) {
-          resolve({});
+          resolve(mockBasket);
         } else {
-          resolve(mockEmptyBasket)
+          if (!basket) {
+            localStorage.setItem(BASKET_KEY_NAME, JSON.stringify(mockEmptyBasket));
+            resolve(mockEmptyBasket);
+          }
+
+          resolve(JSON.parse(basket || ''));
         }
       }, Math.random() * 1000 + 1000);
     }
@@ -50,7 +59,8 @@ const MockBasketsApi = (path?: string, options = {} as any) => {
 
 class BasketsService extends BaseApi {
   getId() {
-    const basketId = localStorage.getItem(BASKET_KEY_NAME);
+    const basketId = localStorage.getItem(BASKET_ID_KEY_NAME);
+
     if (!basketId) {
       this.create();
     }
@@ -68,7 +78,7 @@ class BasketsService extends BaseApi {
     };
 
     const response = await this.api('', options);
-    localStorage.setItem(BASKET_KEY_NAME, response.basketId);
+    localStorage.setItem(BASKET_ID_KEY_NAME, response.basketId);
 
     return response;
   }
@@ -79,7 +89,7 @@ class BasketsService extends BaseApi {
     };
 
     const response = await this.api(basketId, options);
-    localStorage.removeItem(BASKET_KEY_NAME);
+    localStorage.removeItem(BASKET_ID_KEY_NAME);
     return response;
   }
 
