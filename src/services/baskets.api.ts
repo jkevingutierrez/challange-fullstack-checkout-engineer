@@ -58,34 +58,32 @@ class BasketsService extends BaseApi {
     return basketId || '';
   }
 
-  get(id: string): Promise<Basket> {
-    return this.api(id);
+  get(basketId: string): Promise<Basket> {
+    return this.api(basketId);
   }
 
-  create(): Promise<Basket> {
+  async create(): Promise<Basket> {
     const options = {
       method: 'POST',
     };
 
-    return this.api('', options)
-      .then((response: Basket) => {
-        localStorage.setItem(BASKET_KEY_NAME, response.basketId);
-        return response;
-      });
+    const response = await this.api('', options);
+    localStorage.setItem(BASKET_KEY_NAME, response.basketId);
+
+    return response;
   }
 
-  delete(id: string): Promise<string> {
+  async delete(basketId: string): Promise<string> {
     const options = {
       method: 'DELETE',
     };
 
-    return this.api(id, options).then((response) => {
-      localStorage.removeItem(BASKET_KEY_NAME);
-      return response;
-    });
+    const response = await this.api(basketId, options);
+    localStorage.removeItem(BASKET_KEY_NAME);
+    return response;
   }
 
-  update(id: string, parameters: BasketModification): Promise<Basket> {
+  update(basketId: string, parameters: BasketModification): Promise<Basket> {
     const options = {
       method: 'PATCH',
       body: JSON.stringify({
@@ -93,37 +91,37 @@ class BasketsService extends BaseApi {
       }),
     };
 
-    return this.api(id, options);
+    return this.api(basketId, options);
   }
 
-  addProduct(id: string, parameters: ProductToAdd): Promise<Basket> {
+  addProduct(basketId: string, product: ProductToAdd): Promise<Basket> {
     const options = {
       method: 'POST',
       body: JSON.stringify({
-        product: parameters,
+        products: [product],
       }),
     };
 
-    return this.api(`${id}/items/`, options);
+    return this.api(`${basketId}/items/`, options);
   }
 
-  removeProduct(id: string, productId: string): Promise<Basket> {
+  removeProduct(basketId: string, productId: string): Promise<Basket> {
     const options = {
       method: 'DELETE',
     };
 
-    return this.api(`${id}/items/${productId}`, options);
+    return this.api(`${basketId}/items/${productId}`, options);
   }
 
-  updateProduct(id: string, productId: string, parameters: ProductToAdd): Promise<Basket> {
+  updateProduct(basketId: string, productId: string, product: ProductToAdd): Promise<Basket> {
     const options = {
       method: 'PATCH',
       body: JSON.stringify({
-        product: parameters,
+        product: product,
       }),
     };
 
-    return this.api(`${id}/items/${productId}`, options);
+    return this.api(`${basketId}/items/${productId}`, options);
   }
 }
 

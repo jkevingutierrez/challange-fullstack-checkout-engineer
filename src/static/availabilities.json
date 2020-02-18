@@ -1,0 +1,6369 @@
+[
+  {
+    "id": "FV2807",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FV2807_520",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 3.5 / W 4.5"
+      },
+      {
+        "sku": "FV2807_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "FV2807_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "FV2807_550",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "FV2807_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "FV2807_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "FV2807_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "FV2807_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "FV2807_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "FV2807_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "FV2807_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "FV2807_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "FV2807_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "FV2807_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "FV2807_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "FV2807_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "FV2807_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "FV2807_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "FV2807_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "FV2807_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "FV2807_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "FV2807_730",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 14 / W 15"
+      },
+      {
+        "sku": "FV2807_740",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 14.5 / W 15.5"
+      },
+      {
+        "sku": "FV2807_750",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 15 / W 16"
+      },
+      {
+        "sku": "FV2807_760",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 16 / W 17"
+      },
+      {
+        "sku": "FV2807_780",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 17 / W 18"
+      }
+    ]
+  }, {
+    "id": "FV2806",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FV2806_520",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 3.5 / W 4.5"
+      },
+      {
+        "sku": "FV2806_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "FV2806_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "FV2806_550",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "FV2806_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "FV2806_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "FV2806_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "FV2806_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "FV2806_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "FV2806_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "FV2806_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "FV2806_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "FV2806_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "FV2806_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "FV2806_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "FV2806_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "FV2806_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "FV2806_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "FV2806_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "FV2806_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "FV2806_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "FV2806_730",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 14 / W 15"
+      },
+      {
+        "sku": "FV2806_740",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 14.5 / W 15.5"
+      },
+      {
+        "sku": "FV2806_750",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 15 / W 16"
+      },
+      {
+        "sku": "FV2806_760",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 16 / W 17"
+      },
+      {
+        "sku": "FV2806_780",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 17 / W 18"
+      }
+    ]
+  }, {
+    "id": "FV4190",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FV4190_520",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 3.5 / W 4.5"
+      },
+      {
+        "sku": "FV4190_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "FV4190_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "FV4190_550",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "FV4190_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "FV4190_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "FV4190_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "FV4190_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "FV4190_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "FV4190_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "FV4190_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "FV4190_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "FV4190_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "FV4190_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "FV4190_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "FV4190_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "FV4190_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "FV4190_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "FV4190_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "FV4190_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "FV4190_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "FV4190_730",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 14 / W 15"
+      },
+      {
+        "sku": "FV4190_740",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 14.5 / W 15.5"
+      },
+      {
+        "sku": "FV4190_750",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 15 / W 16"
+      },
+      {
+        "sku": "FV4190_760",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 16 / W 17"
+      },
+      {
+        "sku": "FV4190_780",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 17 / W 18"
+      }
+    ]
+  }, {
+    "id": "FV3017",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FV3017_550",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "FV3017_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "FV3017_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "FV3017_600",
+        "availability": 3,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "FV3017_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "FV3017_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "FV3017_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "FV3017_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "FV3017_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "FV3017_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "FV3017_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "FV3017_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "FV3017_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "FV3017_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "FV3017_710",
+        "availability": 10,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "FV3017_730",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 14 / W 15"
+      }
+    ]
+  }, {
+    "id": "FV4189",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FV4189_520",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 3.5 / W 4.5"
+      },
+      {
+        "sku": "FV4189_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "FV4189_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "FV4189_550",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "FV4189_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "FV4189_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "FV4189_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "FV4189_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "FV4189_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "FV4189_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "FV4189_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "FV4189_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "FV4189_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "FV4189_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "FV4189_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "FV4189_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "FV4189_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "FV4189_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "FV4189_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "FV4189_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "FV4189_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "FV4189_730",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 14 / W 15"
+      },
+      {
+        "sku": "FV4189_740",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 14.5 / W 15.5"
+      },
+      {
+        "sku": "FV4189_750",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 15 / W 16"
+      },
+      {
+        "sku": "FV4189_760",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 16 / W 17"
+      },
+      {
+        "sku": "FV4189_780",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 17 / W 18"
+      }
+    ]
+  }, {
+    "id": "FV3018",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FV3018_550",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "FV3018_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "FV3018_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "FV3018_600",
+        "availability": 13,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "FV3018_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "FV3018_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "FV3018_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "FV3018_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "FV3018_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "FV3018_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "FV3018_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "FV3018_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "FV3018_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "FV3018_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "FV3018_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "FV3018_730",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 14 / W 15"
+      }
+    ]
+  }, {
+    "id": "FV8272",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FV8272_520",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "3.5"
+      },
+      {
+        "sku": "FV8272_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4"
+      },
+      {
+        "sku": "FV8272_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4.5"
+      },
+      {
+        "sku": "FV8272_550",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "5"
+      },
+      {
+        "sku": "FV8272_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "5.5"
+      },
+      {
+        "sku": "FV8272_570",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6"
+      },
+      {
+        "sku": "FV8272_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6.5"
+      },
+      {
+        "sku": "FV8272_590",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "7"
+      },
+      {
+        "sku": "FV8272_600",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "7.5"
+      },
+      {
+        "sku": "FV8272_610",
+        "availability": 6,
+        "availability_status": "IN_STOCK",
+        "size": "8"
+      },
+      {
+        "sku": "FV8272_620",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "8.5"
+      },
+      {
+        "sku": "FV8272_630",
+        "availability": 8,
+        "availability_status": "IN_STOCK",
+        "size": "9"
+      },
+      {
+        "sku": "FV8272_640",
+        "availability": 5,
+        "availability_status": "IN_STOCK",
+        "size": "9.5"
+      },
+      {
+        "sku": "FV8272_650",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "10"
+      },
+      {
+        "sku": "FV8272_660",
+        "availability": 3,
+        "availability_status": "IN_STOCK",
+        "size": "10.5"
+      },
+      {
+        "sku": "FV8272_670",
+        "availability": 7,
+        "availability_status": "IN_STOCK",
+        "size": "11"
+      },
+      {
+        "sku": "FV8272_680",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "11.5"
+      },
+      {
+        "sku": "FV8272_690",
+        "availability": 6,
+        "availability_status": "IN_STOCK",
+        "size": "12"
+      },
+      {
+        "sku": "FV8272_700",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12.5"
+      },
+      {
+        "sku": "FV8272_710",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13"
+      },
+      {
+        "sku": "FV8272_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13.5"
+      },
+      {
+        "sku": "FV8272_730",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "14"
+      },
+      {
+        "sku": "FV8272_740",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "14.5"
+      },
+      {
+        "sku": "FV8272_750",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "15"
+      },
+      {
+        "sku": "FV8272_760",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "16"
+      },
+      {
+        "sku": "FV8272_780",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "17"
+      }
+    ]
+  }, {
+    "id": "FV8270",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FV8270_520",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "3.5"
+      },
+      {
+        "sku": "FV8270_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4"
+      },
+      {
+        "sku": "FV8270_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4.5"
+      },
+      {
+        "sku": "FV8270_550",
+        "availability": 3,
+        "availability_status": "IN_STOCK",
+        "size": "5"
+      },
+      {
+        "sku": "FV8270_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "5.5"
+      },
+      {
+        "sku": "FV8270_570",
+        "availability": 9,
+        "availability_status": "IN_STOCK",
+        "size": "6"
+      },
+      {
+        "sku": "FV8270_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6.5"
+      },
+      {
+        "sku": "FV8270_590",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "7"
+      },
+      {
+        "sku": "FV8270_600",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "7.5"
+      },
+      {
+        "sku": "FV8270_610",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "8"
+      },
+      {
+        "sku": "FV8270_620",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "8.5"
+      },
+      {
+        "sku": "FV8270_630",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "9"
+      },
+      {
+        "sku": "FV8270_640",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "9.5"
+      },
+      {
+        "sku": "FV8270_650",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "10"
+      },
+      {
+        "sku": "FV8270_660",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "10.5"
+      },
+      {
+        "sku": "FV8270_670",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "11"
+      },
+      {
+        "sku": "FV8270_680",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "11.5"
+      },
+      {
+        "sku": "FV8270_690",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12"
+      },
+      {
+        "sku": "FV8270_700",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12.5"
+      },
+      {
+        "sku": "FV8270_710",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13"
+      },
+      {
+        "sku": "FV8270_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13.5"
+      },
+      {
+        "sku": "FV8270_730",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "14"
+      },
+      {
+        "sku": "FV8270_740",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "14.5"
+      },
+      {
+        "sku": "FV8270_750",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "15"
+      },
+      {
+        "sku": "FV8270_760",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "16"
+      },
+      {
+        "sku": "FV8270_780",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "17"
+      }
+    ]
+  }, {
+    "id": "FX3471",
+    "availability_status": "NOT_AVAILABLE",
+    "variation_list": [{
+        "sku": "FX3471_520",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "3.5"
+      },
+      {
+        "sku": "FX3471_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4"
+      },
+      {
+        "sku": "FX3471_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4.5"
+      },
+      {
+        "sku": "FX3471_550",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "5"
+      },
+      {
+        "sku": "FX3471_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "5.5"
+      },
+      {
+        "sku": "FX3471_570",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6"
+      },
+      {
+        "sku": "FX3471_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6.5"
+      },
+      {
+        "sku": "FX3471_590",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "7"
+      },
+      {
+        "sku": "FX3471_600",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "7.5"
+      },
+      {
+        "sku": "FX3471_610",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "8"
+      },
+      {
+        "sku": "FX3471_620",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "8.5"
+      },
+      {
+        "sku": "FX3471_630",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "9"
+      },
+      {
+        "sku": "FX3471_640",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "9.5"
+      },
+      {
+        "sku": "FX3471_650",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "10"
+      },
+      {
+        "sku": "FX3471_660",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "10.5"
+      },
+      {
+        "sku": "FX3471_670",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "11"
+      },
+      {
+        "sku": "FX3471_680",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "11.5"
+      },
+      {
+        "sku": "FX3471_690",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12"
+      },
+      {
+        "sku": "FX3471_700",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12.5"
+      },
+      {
+        "sku": "FX3471_710",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13"
+      },
+      {
+        "sku": "FX3471_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13.5"
+      },
+      {
+        "sku": "FX3471_730",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "14"
+      }
+    ]
+  }, {
+    "id": "FX3470",
+    "availability_status": "NOT_AVAILABLE",
+    "variation_list": [{
+        "sku": "FX3470_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4"
+      },
+      {
+        "sku": "FX3470_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4.5"
+      },
+      {
+        "sku": "FX3470_550",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "5"
+      },
+      {
+        "sku": "FX3470_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "5.5"
+      },
+      {
+        "sku": "FX3470_570",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6"
+      },
+      {
+        "sku": "FX3470_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6.5"
+      },
+      {
+        "sku": "FX3470_590",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "7"
+      },
+      {
+        "sku": "FX3470_600",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "7.5"
+      },
+      {
+        "sku": "FX3470_610",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "8"
+      },
+      {
+        "sku": "FX3470_620",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "8.5"
+      },
+      {
+        "sku": "FX3470_630",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "9"
+      },
+      {
+        "sku": "FX3470_640",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "9.5"
+      },
+      {
+        "sku": "FX3470_650",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "10"
+      },
+      {
+        "sku": "FX3470_660",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "10.5"
+      },
+      {
+        "sku": "FX3470_670",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "11"
+      },
+      {
+        "sku": "FX3470_680",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "11.5"
+      },
+      {
+        "sku": "FX3470_690",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12"
+      },
+      {
+        "sku": "FX3470_700",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12.5"
+      },
+      {
+        "sku": "FX3470_710",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13"
+      },
+      {
+        "sku": "FX3470_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13.5"
+      },
+      {
+        "sku": "FX3470_730",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "14"
+      }
+    ]
+  }, {
+    "id": "FX3464",
+    "availability_status": "NOT_AVAILABLE",
+    "variation_list": [{
+        "sku": "FX3464_520",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "3.5"
+      },
+      {
+        "sku": "FX3464_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4"
+      },
+      {
+        "sku": "FX3464_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4.5"
+      },
+      {
+        "sku": "FX3464_550",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "5"
+      },
+      {
+        "sku": "FX3464_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "5.5"
+      },
+      {
+        "sku": "FX3464_570",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6"
+      },
+      {
+        "sku": "FX3464_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6.5"
+      },
+      {
+        "sku": "FX3464_590",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "7"
+      },
+      {
+        "sku": "FX3464_600",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "7.5"
+      },
+      {
+        "sku": "FX3464_610",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "8"
+      },
+      {
+        "sku": "FX3464_620",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "8.5"
+      },
+      {
+        "sku": "FX3464_630",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "9"
+      },
+      {
+        "sku": "FX3464_640",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "9.5"
+      },
+      {
+        "sku": "FX3464_650",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "10"
+      },
+      {
+        "sku": "FX3464_660",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "10.5"
+      },
+      {
+        "sku": "FX3464_670",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "11"
+      },
+      {
+        "sku": "FX3464_680",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "11.5"
+      },
+      {
+        "sku": "FX3464_690",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12"
+      },
+      {
+        "sku": "FX3464_700",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12.5"
+      },
+      {
+        "sku": "FX3464_710",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13"
+      },
+      {
+        "sku": "FX3464_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13.5"
+      },
+      {
+        "sku": "FX3464_730",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "14"
+      }
+    ]
+  }, {
+    "id": "FV0033",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FV0033_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6.5"
+      },
+      {
+        "sku": "FV0033_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "7"
+      },
+      {
+        "sku": "FV0033_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "7.5"
+      },
+      {
+        "sku": "FV0033_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "8"
+      },
+      {
+        "sku": "FV0033_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "8.5"
+      },
+      {
+        "sku": "FV0033_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9"
+      },
+      {
+        "sku": "FV0033_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9.5"
+      },
+      {
+        "sku": "FV0033_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10"
+      },
+      {
+        "sku": "FV0033_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10.5"
+      },
+      {
+        "sku": "FV0033_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11"
+      },
+      {
+        "sku": "FV0033_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11.5"
+      },
+      {
+        "sku": "FV0033_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "12"
+      },
+      {
+        "sku": "FV0033_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "12.5"
+      },
+      {
+        "sku": "FV0033_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "13"
+      },
+      {
+        "sku": "FV0033_730",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "14"
+      },
+      {
+        "sku": "FV0033_750",
+        "availability": 6,
+        "availability_status": "IN_STOCK",
+        "size": "15"
+      },
+      {
+        "sku": "FV0033_760",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "16"
+      },
+      {
+        "sku": "FV0033_780",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "17"
+      },
+      {
+        "sku": "FV0033_790",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "18"
+      }
+    ]
+  }, {
+    "id": "EG1342",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "EG1342_520",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "3.5"
+      },
+      {
+        "sku": "EG1342_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4"
+      },
+      {
+        "sku": "EG1342_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4.5"
+      },
+      {
+        "sku": "EG1342_550",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "5"
+      },
+      {
+        "sku": "EG1342_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "5.5"
+      },
+      {
+        "sku": "EG1342_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "6"
+      },
+      {
+        "sku": "EG1342_580",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "6.5"
+      },
+      {
+        "sku": "EG1342_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "7"
+      },
+      {
+        "sku": "EG1342_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "7.5"
+      },
+      {
+        "sku": "EG1342_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "8"
+      },
+      {
+        "sku": "EG1342_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "8.5"
+      },
+      {
+        "sku": "EG1342_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9"
+      },
+      {
+        "sku": "EG1342_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9.5"
+      },
+      {
+        "sku": "EG1342_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10"
+      },
+      {
+        "sku": "EG1342_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10.5"
+      },
+      {
+        "sku": "EG1342_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11"
+      },
+      {
+        "sku": "EG1342_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11.5"
+      },
+      {
+        "sku": "EG1342_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "12"
+      },
+      {
+        "sku": "EG1342_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "12.5"
+      },
+      {
+        "sku": "EG1342_710",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13"
+      },
+      {
+        "sku": "EG1342_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13.5"
+      },
+      {
+        "sku": "EG1342_730",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "14"
+      },
+      {
+        "sku": "EG1342_740",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "14.5"
+      },
+      {
+        "sku": "EG1342_750",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "15"
+      },
+      {
+        "sku": "EG1342_760",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "16"
+      },
+      {
+        "sku": "EG1342_780",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "17"
+      },
+      {
+        "sku": "EG1342_790",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "18"
+      }
+    ]
+  }, {
+    "id": "FW4904",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FW4904_580",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "6.5"
+      },
+      {
+        "sku": "FW4904_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "7"
+      },
+      {
+        "sku": "FW4904_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "7.5"
+      },
+      {
+        "sku": "FW4904_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "8"
+      },
+      {
+        "sku": "FW4904_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "8.5"
+      },
+      {
+        "sku": "FW4904_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9"
+      },
+      {
+        "sku": "FW4904_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9.5"
+      },
+      {
+        "sku": "FW4904_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10"
+      },
+      {
+        "sku": "FW4904_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10.5"
+      },
+      {
+        "sku": "FW4904_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11"
+      },
+      {
+        "sku": "FW4904_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11.5"
+      },
+      {
+        "sku": "FW4904_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "12"
+      },
+      {
+        "sku": "FW4904_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "12.5"
+      },
+      {
+        "sku": "FW4904_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "13"
+      },
+      {
+        "sku": "FW4904_730",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "14"
+      },
+      {
+        "sku": "FW4904_750",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "15"
+      }
+    ]
+  }, {
+    "id": "FW4898",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FW4898_580",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "6.5"
+      },
+      {
+        "sku": "FW4898_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "7"
+      },
+      {
+        "sku": "FW4898_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "7.5"
+      },
+      {
+        "sku": "FW4898_610",
+        "availability": 7,
+        "availability_status": "IN_STOCK",
+        "size": "8"
+      },
+      {
+        "sku": "FW4898_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "8.5"
+      },
+      {
+        "sku": "FW4898_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9"
+      },
+      {
+        "sku": "FW4898_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9.5"
+      },
+      {
+        "sku": "FW4898_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10"
+      },
+      {
+        "sku": "FW4898_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10.5"
+      },
+      {
+        "sku": "FW4898_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11"
+      },
+      {
+        "sku": "FW4898_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11.5"
+      },
+      {
+        "sku": "FW4898_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "12"
+      },
+      {
+        "sku": "FW4898_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "12.5"
+      },
+      {
+        "sku": "FW4898_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "13"
+      },
+      {
+        "sku": "FW4898_730",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "14"
+      },
+      {
+        "sku": "FW4898_750",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "15"
+      }
+    ]
+  }, {
+    "id": "FV3909",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FV3909_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4"
+      },
+      {
+        "sku": "FV3909_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4.5"
+      },
+      {
+        "sku": "FV3909_550",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "5"
+      },
+      {
+        "sku": "FV3909_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "5.5"
+      },
+      {
+        "sku": "FV3909_570",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6"
+      },
+      {
+        "sku": "FV3909_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6.5"
+      },
+      {
+        "sku": "FV3909_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "7"
+      },
+      {
+        "sku": "FV3909_600",
+        "availability": 8,
+        "availability_status": "IN_STOCK",
+        "size": "7.5"
+      },
+      {
+        "sku": "FV3909_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "8"
+      },
+      {
+        "sku": "FV3909_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "8.5"
+      },
+      {
+        "sku": "FV3909_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9"
+      },
+      {
+        "sku": "FV3909_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9.5"
+      },
+      {
+        "sku": "FV3909_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10"
+      },
+      {
+        "sku": "FV3909_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10.5"
+      },
+      {
+        "sku": "FV3909_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11"
+      },
+      {
+        "sku": "FV3909_680",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "11.5"
+      },
+      {
+        "sku": "FV3909_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "12"
+      },
+      {
+        "sku": "FV3909_700",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12.5"
+      },
+      {
+        "sku": "FV3909_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "13"
+      },
+      {
+        "sku": "FV3909_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13.5"
+      },
+      {
+        "sku": "FV3909_730",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "14"
+      }
+    ]
+  }, {
+    "id": "FV8057",
+    "availability_status": "NOT_AVAILABLE",
+    "variation_list": [{
+        "sku": "FV8057_590",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "7"
+      },
+      {
+        "sku": "FV8057_600",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "7.5"
+      },
+      {
+        "sku": "FV8057_610",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "8"
+      },
+      {
+        "sku": "FV8057_620",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "8.5"
+      },
+      {
+        "sku": "FV8057_630",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "9"
+      },
+      {
+        "sku": "FV8057_640",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "9.5"
+      },
+      {
+        "sku": "FV8057_650",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "10"
+      },
+      {
+        "sku": "FV8057_660",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "10.5"
+      },
+      {
+        "sku": "FV8057_670",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "11"
+      },
+      {
+        "sku": "FV8057_680",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "11.5"
+      },
+      {
+        "sku": "FV8057_690",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12"
+      },
+      {
+        "sku": "FV8057_700",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12.5"
+      },
+      {
+        "sku": "FV8057_710",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13"
+      },
+      {
+        "sku": "FV8057_730",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "14"
+      },
+      {
+        "sku": "FV8057_750",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "15"
+      },
+      {
+        "sku": "FV8057_760",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "16"
+      }
+    ]
+  }, {
+    "id": "FW4899",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FW4899_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6.5"
+      },
+      {
+        "sku": "FW4899_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "7"
+      },
+      {
+        "sku": "FW4899_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "7.5"
+      },
+      {
+        "sku": "FW4899_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "8"
+      },
+      {
+        "sku": "FW4899_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "8.5"
+      },
+      {
+        "sku": "FW4899_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9"
+      },
+      {
+        "sku": "FW4899_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9.5"
+      },
+      {
+        "sku": "FW4899_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10"
+      },
+      {
+        "sku": "FW4899_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10.5"
+      },
+      {
+        "sku": "FW4899_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11"
+      },
+      {
+        "sku": "FW4899_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11.5"
+      },
+      {
+        "sku": "FW4899_690",
+        "availability": 10,
+        "availability_status": "IN_STOCK",
+        "size": "12"
+      },
+      {
+        "sku": "FW4899_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "12.5"
+      },
+      {
+        "sku": "FW4899_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "13"
+      },
+      {
+        "sku": "FW4899_730",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "14"
+      },
+      {
+        "sku": "FW4899_750",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "15"
+      }
+    ]
+  }, {
+    "id": "EF1565",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "EF1565_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4"
+      },
+      {
+        "sku": "EF1565_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4.5"
+      },
+      {
+        "sku": "EF1565_550",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "5"
+      },
+      {
+        "sku": "EF1565_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "5.5"
+      },
+      {
+        "sku": "EF1565_570",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6"
+      },
+      {
+        "sku": "EF1565_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6.5"
+      },
+      {
+        "sku": "EF1565_590",
+        "availability": 12,
+        "availability_status": "IN_STOCK",
+        "size": "7"
+      },
+      {
+        "sku": "EF1565_600",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "7.5"
+      },
+      {
+        "sku": "EF1565_610",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "8"
+      },
+      {
+        "sku": "EF1565_620",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "8.5"
+      },
+      {
+        "sku": "EF1565_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9"
+      },
+      {
+        "sku": "EF1565_640",
+        "availability": 6,
+        "availability_status": "IN_STOCK",
+        "size": "9.5"
+      },
+      {
+        "sku": "EF1565_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10"
+      },
+      {
+        "sku": "EF1565_660",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "10.5"
+      },
+      {
+        "sku": "EF1565_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11"
+      },
+      {
+        "sku": "EF1565_680",
+        "availability": 3,
+        "availability_status": "IN_STOCK",
+        "size": "11.5"
+      },
+      {
+        "sku": "EF1565_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "12"
+      },
+      {
+        "sku": "EF1565_700",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12.5"
+      },
+      {
+        "sku": "EF1565_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "13"
+      },
+      {
+        "sku": "EF1565_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13.5"
+      }
+    ]
+  }, {
+    "id": "FX1061",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FX1061_550",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "FX1061_570",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "FX1061_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "FX1061_590",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "FX1061_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "FX1061_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "FX1061_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "FX1061_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "FX1061_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "FX1061_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "FX1061_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "FX1061_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "FX1061_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "FX1061_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "FX1061_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "FX1061_710",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13 / W 14"
+      }
+    ]
+  }, {
+    "id": "EG0701",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "EG0701_520",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 3.5 / W 4.5"
+      },
+      {
+        "sku": "EG0701_530",
+        "availability": 2,
+        "availability_status": "IN_STOCK",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "EG0701_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "EG0701_550",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "EG0701_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "EG0701_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "EG0701_580",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "EG0701_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "EG0701_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "EG0701_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "EG0701_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "EG0701_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "EG0701_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "EG0701_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "EG0701_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "EG0701_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "EG0701_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "EG0701_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "EG0701_700",
+        "availability": 7,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "EG0701_710",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "EG0701_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "EG0701_730",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 14 / W 15"
+      },
+      {
+        "sku": "EG0701_740",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 14.5 / W 15.5"
+      },
+      {
+        "sku": "EG0701_750",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 15 / W 16"
+      },
+      {
+        "sku": "EG0701_760",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 16 / W 17"
+      },
+      {
+        "sku": "EG0701_780",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 17 / W 18"
+      },
+      {
+        "sku": "EG0701_790",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 18 / W 19"
+      }
+    ]
+  }, {
+    "id": "FU7437",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FU7437_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "FU7437_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "FU7437_550",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "FU7437_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "FU7437_570",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "FU7437_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "FU7437_590",
+        "availability": 2,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "FU7437_600",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "FU7437_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "FU7437_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "FU7437_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "FU7437_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "FU7437_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "FU7437_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "FU7437_670",
+        "availability": 9,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "FU7437_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "FU7437_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "FU7437_700",
+        "availability": 4,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "FU7437_710",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13 / W 14"
+      }
+    ]
+  }, {
+    "id": "FV3907",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FV3907_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "FV3907_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "FV3907_550",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "FV3907_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "FV3907_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "FV3907_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "FV3907_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "FV3907_600",
+        "availability": 6,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "FV3907_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "FV3907_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "FV3907_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "FV3907_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "FV3907_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "FV3907_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "FV3907_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "FV3907_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "FV3907_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "FV3907_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "FV3907_710",
+        "availability": 14,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "FV3907_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "FV3907_730",
+        "availability": 11,
+        "availability_status": "IN_STOCK",
+        "size": "M 14 / W 15"
+      }
+    ]
+  }, {
+    "id": "EH2069",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "EH2069_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "EH2069_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "EH2069_550",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "EH2069_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "EH2069_570",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "EH2069_580",
+        "availability": 11,
+        "availability_status": "IN_STOCK",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "EH2069_590",
+        "availability": 6,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "EH2069_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "EH2069_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "EH2069_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "EH2069_630",
+        "availability": 10,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "EH2069_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "EH2069_650",
+        "availability": 8,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "EH2069_660",
+        "availability": 2,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "EH2069_670",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "EH2069_680",
+        "availability": 2,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "EH2069_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "EH2069_700",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "EH2069_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "EH2069_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "EH2069_730",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 14 / W 15"
+      },
+      {
+        "sku": "EH2069_740",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 14.5 / W 15.5"
+      },
+      {
+        "sku": "EH2069_750",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 15 / W 16"
+      },
+      {
+        "sku": "EH2069_760",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 16 / W 17"
+      },
+      {
+        "sku": "EH2069_780",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 17 / W 18"
+      },
+      {
+        "sku": "EH2069_790",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 18 / W 19"
+      },
+      {
+        "sku": "EH2069_800",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 19 / W 20"
+      },
+      {
+        "sku": "EH2069_810",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 20 / W 21"
+      }
+    ]
+  }, {
+    "id": "FW8978",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FW8978_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "FW8978_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "FW8978_550",
+        "availability": 3,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "FW8978_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "FW8978_570",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "FW8978_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "FW8978_590",
+        "availability": 8,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "FW8978_600",
+        "availability": 8,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "FW8978_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "FW8978_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "FW8978_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "FW8978_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "FW8978_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "FW8978_660",
+        "availability": 13,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "FW8978_670",
+        "availability": 10,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "FW8978_680",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "FW8978_690",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "FW8978_700",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "FW8978_710",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "FW8978_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "FW8978_730",
+        "availability": 8,
+        "availability_status": "IN_STOCK",
+        "size": "M 14 / W 15"
+      }
+    ]
+  }, {
+    "id": "EF4264",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "EF4264_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "EF4264_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "EF4264_550",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "EF4264_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "EF4264_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "EF4264_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "EF4264_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "EF4264_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "EF4264_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "EF4264_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "EF4264_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "EF4264_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "EF4264_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "EF4264_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "EF4264_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "EF4264_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "EF4264_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "EF4264_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "EF4264_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "EF4264_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "EF4264_730",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 14 / W 15"
+      }
+    ]
+  }, {
+    "id": "EF4263",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "EF4263_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "EF4263_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "EF4263_550",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "EF4263_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "EF4263_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "EF4263_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "EF4263_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "EF4263_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "EF4263_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "EF4263_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "EF4263_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "EF4263_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "EF4263_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "EF4263_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "EF4263_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "EF4263_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "EF4263_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "EF4263_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "EF4263_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "EF4263_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "EF4263_730",
+        "availability": 12,
+        "availability_status": "IN_STOCK",
+        "size": "M 14 / W 15"
+      }
+    ]
+  }, {
+    "id": "FX4008",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FX4008_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "FX4008_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "FX4008_550",
+        "availability": 8,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "FX4008_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "FX4008_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "FX4008_580",
+        "availability": 2,
+        "availability_status": "IN_STOCK",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "FX4008_590",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "FX4008_600",
+        "availability": 11,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "FX4008_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "FX4008_620",
+        "availability": 9,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "FX4008_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "FX4008_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "FX4008_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "FX4008_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "FX4008_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "FX4008_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "FX4008_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "FX4008_700",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "FX4008_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "FX4008_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "FX4008_730",
+        "availability": 3,
+        "availability_status": "IN_STOCK",
+        "size": "M 14 / W 15"
+      }
+    ]
+  }, {
+    "id": "EF5577",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "EF5577_520",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 3.5 / W 4.5"
+      },
+      {
+        "sku": "EF5577_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "EF5577_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "EF5577_550",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "EF5577_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "EF5577_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "EF5577_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "EF5577_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "EF5577_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "EF5577_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "EF5577_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "EF5577_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "EF5577_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "EF5577_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "EF5577_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "EF5577_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "EF5577_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "EF5577_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "EF5577_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "EF5577_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "EF5577_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "EF5577_730",
+        "availability": 13,
+        "availability_status": "IN_STOCK",
+        "size": "M 14 / W 15"
+      }
+    ]
+  }, {
+    "id": "FU9447",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FU9447_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "FU9447_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "FU9447_550",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "FU9447_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "FU9447_570",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "FU9447_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "FU9447_590",
+        "availability": 5,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "FU9447_600",
+        "availability": 6,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "FU9447_610",
+        "availability": 10,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "FU9447_620",
+        "availability": 3,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "FU9447_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "FU9447_640",
+        "availability": 11,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "FU9447_650",
+        "availability": 8,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "FU9447_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "FU9447_670",
+        "availability": 7,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "FU9447_680",
+        "availability": 6,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "FU9447_690",
+        "availability": 1,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "FU9447_700",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "FU9447_710",
+        "availability": 1,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "FU9447_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "FU9447_730",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 14 / W 15"
+      },
+      {
+        "sku": "FU9447_740",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 14.5 / W 15.5"
+      },
+      {
+        "sku": "FU9447_750",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 15 / W 16"
+      },
+      {
+        "sku": "FU9447_760",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 16 / W 17"
+      },
+      {
+        "sku": "FU9447_780",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 17 / W 18"
+      },
+      {
+        "sku": "FU9447_790",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 18 / W 19"
+      },
+      {
+        "sku": "FU9447_800",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 19 / W 20"
+      },
+      {
+        "sku": "FU9447_810",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 20 / W 21"
+      }
+    ]
+  }, {
+    "id": "EG0699",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "EG0699_520",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "3.5"
+      },
+      {
+        "sku": "EG0699_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4"
+      },
+      {
+        "sku": "EG0699_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4.5"
+      },
+      {
+        "sku": "EG0699_550",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "5"
+      },
+      {
+        "sku": "EG0699_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "5.5"
+      },
+      {
+        "sku": "EG0699_570",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6"
+      },
+      {
+        "sku": "EG0699_580",
+        "availability": 5,
+        "availability_status": "IN_STOCK",
+        "size": "6.5"
+      },
+      {
+        "sku": "EG0699_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "7"
+      },
+      {
+        "sku": "EG0699_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "7.5"
+      },
+      {
+        "sku": "EG0699_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "8"
+      },
+      {
+        "sku": "EG0699_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "8.5"
+      },
+      {
+        "sku": "EG0699_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9"
+      },
+      {
+        "sku": "EG0699_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9.5"
+      },
+      {
+        "sku": "EG0699_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10"
+      },
+      {
+        "sku": "EG0699_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10.5"
+      },
+      {
+        "sku": "EG0699_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11"
+      },
+      {
+        "sku": "EG0699_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11.5"
+      },
+      {
+        "sku": "EG0699_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "12"
+      },
+      {
+        "sku": "EG0699_700",
+        "availability": 6,
+        "availability_status": "IN_STOCK",
+        "size": "12.5"
+      },
+      {
+        "sku": "EG0699_710",
+        "availability": 9,
+        "availability_status": "IN_STOCK",
+        "size": "13"
+      },
+      {
+        "sku": "EG0699_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13.5"
+      },
+      {
+        "sku": "EG0699_730",
+        "availability": 10,
+        "availability_status": "IN_STOCK",
+        "size": "14"
+      },
+      {
+        "sku": "EG0699_740",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "14.5"
+      },
+      {
+        "sku": "EG0699_750",
+        "availability": 5,
+        "availability_status": "IN_STOCK",
+        "size": "15"
+      },
+      {
+        "sku": "EG0699_760",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "16"
+      },
+      {
+        "sku": "EG0699_780",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "17"
+      },
+      {
+        "sku": "EG0699_790",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "18"
+      }
+    ]
+  }, {
+    "id": "FV5323",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FV5323_530",
+        "availability": 4,
+        "availability_status": "IN_STOCK",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "FV5323_540",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "FV5323_550",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "FV5323_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "FV5323_570",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "FV5323_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "FV5323_590",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "FV5323_600",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "FV5323_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "FV5323_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "FV5323_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "FV5323_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "FV5323_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "FV5323_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "FV5323_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "FV5323_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "FV5323_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "FV5323_700",
+        "availability": 1,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "FV5323_710",
+        "availability": 6,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "FV5323_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "FV5323_730",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 14 / W 15"
+      },
+      {
+        "sku": "FV5323_750",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 15 / W 16"
+      }
+    ]
+  }, {
+    "id": "EG1610",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "EG1610_580",
+        "availability": 4,
+        "availability_status": "IN_STOCK",
+        "size": "6.5"
+      },
+      {
+        "sku": "EG1610_590",
+        "availability": 13,
+        "availability_status": "IN_STOCK",
+        "size": "7"
+      },
+      {
+        "sku": "EG1610_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "7.5"
+      },
+      {
+        "sku": "EG1610_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "8"
+      },
+      {
+        "sku": "EG1610_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "8.5"
+      },
+      {
+        "sku": "EG1610_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9"
+      },
+      {
+        "sku": "EG1610_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9.5"
+      },
+      {
+        "sku": "EG1610_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10"
+      },
+      {
+        "sku": "EG1610_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10.5"
+      },
+      {
+        "sku": "EG1610_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11"
+      },
+      {
+        "sku": "EG1610_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11.5"
+      },
+      {
+        "sku": "EG1610_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "12"
+      },
+      {
+        "sku": "EG1610_700",
+        "availability": 12,
+        "availability_status": "IN_STOCK",
+        "size": "12.5"
+      },
+      {
+        "sku": "EG1610_710",
+        "availability": 8,
+        "availability_status": "IN_STOCK",
+        "size": "13"
+      }
+    ]
+  }, {
+    "id": "EF1629",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "EF1629_530",
+        "availability": 7,
+        "availability_status": "IN_STOCK",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "EF1629_540",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "EF1629_550",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "EF1629_560",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "EF1629_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "EF1629_580",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "EF1629_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "EF1629_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "EF1629_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "EF1629_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "EF1629_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "EF1629_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "EF1629_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "EF1629_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "EF1629_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "EF1629_680",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "EF1629_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "EF1629_700",
+        "availability": 10,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "EF1629_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "EF1629_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13.5 / W 14.5"
+      }
+    ]
+  }, {
+    "id": "EF1612",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "EF1612_530",
+        "availability": 1,
+        "availability_status": "IN_STOCK",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "EF1612_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "EF1612_550",
+        "availability": 3,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "EF1612_560",
+        "availability": 5,
+        "availability_status": "IN_STOCK",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "EF1612_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "EF1612_580",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "EF1612_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "EF1612_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "EF1612_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "EF1612_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "EF1612_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "EF1612_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "EF1612_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "EF1612_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "EF1612_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "EF1612_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "EF1612_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "EF1612_700",
+        "availability": 4,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "EF1612_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "EF1612_720",
+        "availability": 5,
+        "availability_status": "IN_STOCK",
+        "size": "M 13.5 / W 14.5"
+      }
+    ]
+  }, {
+    "id": "EF4262",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "EF4262_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "EF4262_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "EF4262_550",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "EF4262_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "EF4262_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "EF4262_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "EF4262_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "EF4262_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "EF4262_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "EF4262_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "EF4262_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "EF4262_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "EF4262_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "EF4262_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "EF4262_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "EF4262_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "EF4262_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "EF4262_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "EF4262_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "EF4262_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "EF4262_730",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 14 / W 15"
+      }
+    ]
+  }, {
+    "id": "EE9102",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "EE9102_590",
+        "availability": 3,
+        "availability_status": "IN_STOCK",
+        "size": "7"
+      },
+      {
+        "sku": "EE9102_600",
+        "availability": 4,
+        "availability_status": "IN_STOCK",
+        "size": "7.5"
+      },
+      {
+        "sku": "EE9102_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "8"
+      },
+      {
+        "sku": "EE9102_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "8.5"
+      },
+      {
+        "sku": "EE9102_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9"
+      },
+      {
+        "sku": "EE9102_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9.5"
+      },
+      {
+        "sku": "EE9102_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10"
+      },
+      {
+        "sku": "EE9102_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10.5"
+      },
+      {
+        "sku": "EE9102_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11"
+      },
+      {
+        "sku": "EE9102_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11.5"
+      },
+      {
+        "sku": "EE9102_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "12"
+      },
+      {
+        "sku": "EE9102_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "12.5"
+      },
+      {
+        "sku": "EE9102_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "13"
+      },
+      {
+        "sku": "EE9102_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13.5"
+      },
+      {
+        "sku": "EE9102_730",
+        "availability": 12,
+        "availability_status": "IN_STOCK",
+        "size": "14"
+      },
+      {
+        "sku": "EE9102_750",
+        "availability": 6,
+        "availability_status": "IN_STOCK",
+        "size": "15"
+      }
+    ]
+  }, {
+    "id": "FV4485",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FV4485_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4"
+      },
+      {
+        "sku": "FV4485_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "4.5"
+      },
+      {
+        "sku": "FV4485_550",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "5"
+      },
+      {
+        "sku": "FV4485_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "5.5"
+      },
+      {
+        "sku": "FV4485_570",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6"
+      },
+      {
+        "sku": "FV4485_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6.5"
+      },
+      {
+        "sku": "FV4485_590",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "7"
+      },
+      {
+        "sku": "FV4485_600",
+        "availability": 1,
+        "availability_status": "IN_STOCK",
+        "size": "7.5"
+      },
+      {
+        "sku": "FV4485_610",
+        "availability": 14,
+        "availability_status": "IN_STOCK",
+        "size": "8"
+      },
+      {
+        "sku": "FV4485_620",
+        "availability": 12,
+        "availability_status": "IN_STOCK",
+        "size": "8.5"
+      },
+      {
+        "sku": "FV4485_630",
+        "availability": 12,
+        "availability_status": "IN_STOCK",
+        "size": "9"
+      },
+      {
+        "sku": "FV4485_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9.5"
+      },
+      {
+        "sku": "FV4485_650",
+        "availability": 14,
+        "availability_status": "IN_STOCK",
+        "size": "10"
+      },
+      {
+        "sku": "FV4485_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10.5"
+      },
+      {
+        "sku": "FV4485_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11"
+      },
+      {
+        "sku": "FV4485_680",
+        "availability": 11,
+        "availability_status": "IN_STOCK",
+        "size": "11.5"
+      },
+      {
+        "sku": "FV4485_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "12"
+      },
+      {
+        "sku": "FV4485_700",
+        "availability": 3,
+        "availability_status": "IN_STOCK",
+        "size": "12.5"
+      },
+      {
+        "sku": "FV4485_710",
+        "availability": 1,
+        "availability_status": "IN_STOCK",
+        "size": "13"
+      },
+      {
+        "sku": "FV4485_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13.5"
+      },
+      {
+        "sku": "FV4485_730",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "14"
+      },
+      {
+        "sku": "FV4485_740",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "14.5"
+      },
+      {
+        "sku": "FV4485_750",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "15"
+      },
+      {
+        "sku": "FV4485_760",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "16"
+      },
+      {
+        "sku": "FV4485_780",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "17"
+      },
+      {
+        "sku": "FV4485_790",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "18"
+      },
+      {
+        "sku": "FV4485_800",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "19"
+      },
+      {
+        "sku": "FV4485_810",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "20"
+      },
+      {
+        "sku": "FV4485_820",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "21"
+      }
+    ]
+  }, {
+    "id": "FU9993",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FU9993_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6.5"
+      },
+      {
+        "sku": "FU9993_590",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "7"
+      },
+      {
+        "sku": "FU9993_600",
+        "availability": 6,
+        "availability_status": "IN_STOCK",
+        "size": "7.5"
+      },
+      {
+        "sku": "FU9993_610",
+        "availability": 5,
+        "availability_status": "IN_STOCK",
+        "size": "8"
+      },
+      {
+        "sku": "FU9993_620",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "8.5"
+      },
+      {
+        "sku": "FU9993_630",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "9"
+      },
+      {
+        "sku": "FU9993_640",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "9.5"
+      },
+      {
+        "sku": "FU9993_650",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "10"
+      },
+      {
+        "sku": "FU9993_660",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "10.5"
+      },
+      {
+        "sku": "FU9993_670",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "11"
+      },
+      {
+        "sku": "FU9993_680",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "11.5"
+      },
+      {
+        "sku": "FU9993_690",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12"
+      },
+      {
+        "sku": "FU9993_700",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12.5"
+      },
+      {
+        "sku": "FU9993_710",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13"
+      },
+      {
+        "sku": "FU9993_730",
+        "availability": 8,
+        "availability_status": "IN_STOCK",
+        "size": "14"
+      },
+      {
+        "sku": "FU9993_750",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "15"
+      },
+      {
+        "sku": "FU9993_760",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "16"
+      },
+      {
+        "sku": "FU9993_780",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "17"
+      },
+      {
+        "sku": "FU9993_790",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "18"
+      }
+    ]
+  }, {
+    "id": "FW5749",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FW5749_580",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "6.5"
+      },
+      {
+        "sku": "FW5749_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "7"
+      },
+      {
+        "sku": "FW5749_600",
+        "availability": 3,
+        "availability_status": "IN_STOCK",
+        "size": "7.5"
+      },
+      {
+        "sku": "FW5749_610",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "8"
+      },
+      {
+        "sku": "FW5749_620",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "8.5"
+      },
+      {
+        "sku": "FW5749_630",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "9"
+      },
+      {
+        "sku": "FW5749_640",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "9.5"
+      },
+      {
+        "sku": "FW5749_650",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "10"
+      },
+      {
+        "sku": "FW5749_660",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "10.5"
+      },
+      {
+        "sku": "FW5749_670",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "11"
+      },
+      {
+        "sku": "FW5749_680",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "11.5"
+      },
+      {
+        "sku": "FW5749_690",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12"
+      },
+      {
+        "sku": "FW5749_700",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12.5"
+      },
+      {
+        "sku": "FW5749_710",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13"
+      },
+      {
+        "sku": "FW5749_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13.5"
+      },
+      {
+        "sku": "FW5749_730",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "14"
+      },
+      {
+        "sku": "FW5749_740",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "14.5"
+      },
+      {
+        "sku": "FW5749_750",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "15"
+      },
+      {
+        "sku": "FW5749_760",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "16"
+      }
+    ]
+  }, {
+    "id": "EF5441",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "EF5441_530",
+        "availability": 14,
+        "availability_status": "IN_STOCK",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "EF5441_540",
+        "availability": 14,
+        "availability_status": "IN_STOCK",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "EF5441_550",
+        "availability": 13,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "EF5441_560",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "EF5441_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "EF5441_580",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "EF5441_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "EF5441_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "EF5441_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "EF5441_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "EF5441_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "EF5441_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "EF5441_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "EF5441_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "EF5441_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "EF5441_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "EF5441_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "EF5441_700",
+        "availability": 6,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "EF5441_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "EF5441_720",
+        "availability": 9,
+        "availability_status": "IN_STOCK",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "EF5441_730",
+        "availability": 9,
+        "availability_status": "IN_STOCK",
+        "size": "M 14 / W 15"
+      }
+    ]
+  }, {
+    "id": "FV3788",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FV3788_530",
+        "availability": 12,
+        "availability_status": "IN_STOCK",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "FV3788_540",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "FV3788_550",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "FV3788_560",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "FV3788_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "FV3788_580",
+        "availability": 10,
+        "availability_status": "IN_STOCK",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "FV3788_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "FV3788_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "FV3788_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "FV3788_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "FV3788_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "FV3788_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "FV3788_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "FV3788_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "FV3788_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "FV3788_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "FV3788_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "FV3788_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "FV3788_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "FV3788_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "FV3788_730",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 14 / W 15"
+      }
+    ]
+  }, {
+    "id": "FW3665",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FW3665_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "6.5"
+      },
+      {
+        "sku": "FW3665_590",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "7"
+      },
+      {
+        "sku": "FW3665_600",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "7.5"
+      },
+      {
+        "sku": "FW3665_610",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "8"
+      },
+      {
+        "sku": "FW3665_620",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "8.5"
+      },
+      {
+        "sku": "FW3665_630",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "9"
+      },
+      {
+        "sku": "FW3665_640",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "9.5"
+      },
+      {
+        "sku": "FW3665_650",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "10"
+      },
+      {
+        "sku": "FW3665_660",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "10.5"
+      },
+      {
+        "sku": "FW3665_670",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "11"
+      },
+      {
+        "sku": "FW3665_680",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "11.5"
+      },
+      {
+        "sku": "FW3665_690",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12"
+      },
+      {
+        "sku": "FW3665_700",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12.5"
+      },
+      {
+        "sku": "FW3665_710",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13"
+      },
+      {
+        "sku": "FW3665_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13.5"
+      },
+      {
+        "sku": "FW3665_730",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "14"
+      },
+      {
+        "sku": "FW3665_740",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "14.5"
+      },
+      {
+        "sku": "FW3665_750",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "15"
+      },
+      {
+        "sku": "FW3665_760",
+        "availability": 2,
+        "availability_status": "IN_STOCK",
+        "size": "16"
+      },
+      {
+        "sku": "FW3665_780",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "17"
+      },
+      {
+        "sku": "FW3665_790",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "18"
+      },
+      {
+        "sku": "FW3665_800",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "19"
+      }
+    ]
+  }, {
+    "id": "FV3642",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FV3642_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "FV3642_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "FV3642_550",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "FV3642_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "FV3642_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "FV3642_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "FV3642_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "FV3642_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "FV3642_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "FV3642_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "FV3642_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "FV3642_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "FV3642_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "FV3642_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "FV3642_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "FV3642_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "FV3642_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "FV3642_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "FV3642_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "FV3642_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "FV3642_730",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 14 / W 15"
+      }
+    ]
+  }, {
+    "id": "EH3321",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "EH3321_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "EH3321_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "EH3321_550",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "EH3321_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "EH3321_570",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "EH3321_580",
+        "availability": 2,
+        "availability_status": "IN_STOCK",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "EH3321_590",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "EH3321_600",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "EH3321_610",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "EH3321_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "EH3321_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "EH3321_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "EH3321_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "EH3321_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "EH3321_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "EH3321_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "EH3321_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "EH3321_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "EH3321_710",
+        "availability": 14,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "EH3321_730",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 14 / W 15"
+      },
+      {
+        "sku": "EH3321_750",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 15 / W 16"
+      },
+      {
+        "sku": "EH3321_760",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 16 / W 17"
+      },
+      {
+        "sku": "EH3321_780",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 17 / W 18"
+      },
+      {
+        "sku": "EH3321_790",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 18 / W 19"
+      }
+    ]
+  }, {
+    "id": "EF5440",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "EF5440_530",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "EF5440_540",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "EF5440_550",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "EF5440_560",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "EF5440_570",
+        "availability": 11,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "EF5440_580",
+        "availability": 7,
+        "availability_status": "IN_STOCK",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "EF5440_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "EF5440_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "EF5440_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "EF5440_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "EF5440_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "EF5440_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "EF5440_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "EF5440_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "EF5440_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "EF5440_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "EF5440_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "EF5440_700",
+        "availability": 5,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "EF5440_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "EF5440_720",
+        "availability": 4,
+        "availability_status": "IN_STOCK",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "EF5440_730",
+        "availability": 8,
+        "availability_status": "IN_STOCK",
+        "size": "M 14 / W 15"
+      }
+    ]
+  }, {
+    "id": "EF5576",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "EF5576_520",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 3.5 / W 4.5"
+      },
+      {
+        "sku": "EF5576_530",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4 / W 5"
+      },
+      {
+        "sku": "EF5576_540",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 4.5 / W 5.5"
+      },
+      {
+        "sku": "EF5576_550",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 5 / W 6"
+      },
+      {
+        "sku": "EF5576_560",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 5.5 / W 6.5"
+      },
+      {
+        "sku": "EF5576_570",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 6 / W 7"
+      },
+      {
+        "sku": "EF5576_580",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 6.5 / W 7.5"
+      },
+      {
+        "sku": "EF5576_590",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7 / W 8"
+      },
+      {
+        "sku": "EF5576_600",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 7.5 / W 8.5"
+      },
+      {
+        "sku": "EF5576_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8 / W 9"
+      },
+      {
+        "sku": "EF5576_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 8.5 / W 9.5"
+      },
+      {
+        "sku": "EF5576_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9 / W 10"
+      },
+      {
+        "sku": "EF5576_640",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 9.5 / W 10.5"
+      },
+      {
+        "sku": "EF5576_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10 / W 11"
+      },
+      {
+        "sku": "EF5576_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 10.5 / W 11.5"
+      },
+      {
+        "sku": "EF5576_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11 / W 12"
+      },
+      {
+        "sku": "EF5576_680",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 11.5 / W 12.5"
+      },
+      {
+        "sku": "EF5576_690",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12 / W 13"
+      },
+      {
+        "sku": "EF5576_700",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 12.5 / W 13.5"
+      },
+      {
+        "sku": "EF5576_710",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 13 / W 14"
+      },
+      {
+        "sku": "EF5576_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "M 13.5 / W 14.5"
+      },
+      {
+        "sku": "EF5576_730",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "M 14 / W 15"
+      }
+    ]
+  }, {
+    "id": "FV7538",
+    "availability_status": "IN_STOCK",
+    "variation_list": [{
+        "sku": "FV7538_530",
+        "availability": 4,
+        "availability_status": "IN_STOCK",
+        "size": "4"
+      },
+      {
+        "sku": "FV7538_540",
+        "availability": 2,
+        "availability_status": "IN_STOCK",
+        "size": "4.5"
+      },
+      {
+        "sku": "FV7538_550",
+        "availability": 14,
+        "availability_status": "IN_STOCK",
+        "size": "5"
+      },
+      {
+        "sku": "FV7538_560",
+        "availability": 2,
+        "availability_status": "IN_STOCK",
+        "size": "5.5"
+      },
+      {
+        "sku": "FV7538_570",
+        "availability": 3,
+        "availability_status": "IN_STOCK",
+        "size": "6"
+      },
+      {
+        "sku": "FV7538_580",
+        "availability": 1,
+        "availability_status": "IN_STOCK",
+        "size": "6.5"
+      },
+      {
+        "sku": "FV7538_590",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "7"
+      },
+      {
+        "sku": "FV7538_600",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "7.5"
+      },
+      {
+        "sku": "FV7538_610",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "8"
+      },
+      {
+        "sku": "FV7538_620",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "8.5"
+      },
+      {
+        "sku": "FV7538_630",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "9"
+      },
+      {
+        "sku": "FV7538_640",
+        "availability": 5,
+        "availability_status": "IN_STOCK",
+        "size": "9.5"
+      },
+      {
+        "sku": "FV7538_650",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10"
+      },
+      {
+        "sku": "FV7538_660",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "10.5"
+      },
+      {
+        "sku": "FV7538_670",
+        "availability": 15,
+        "availability_status": "IN_STOCK",
+        "size": "11"
+      },
+      {
+        "sku": "FV7538_680",
+        "availability": 8,
+        "availability_status": "IN_STOCK",
+        "size": "11.5"
+      },
+      {
+        "sku": "FV7538_690",
+        "availability": 4,
+        "availability_status": "IN_STOCK",
+        "size": "12"
+      },
+      {
+        "sku": "FV7538_700",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "12.5"
+      },
+      {
+        "sku": "FV7538_710",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13"
+      },
+      {
+        "sku": "FV7538_720",
+        "availability": 0,
+        "availability_status": "NOT_AVAILABLE",
+        "size": "13.5"
+      },
+      {
+        "sku": "FV7538_730",
+        "availability": 5,
+        "availability_status": "IN_STOCK",
+        "size": "14"
+      }
+    ]
+  }
+]

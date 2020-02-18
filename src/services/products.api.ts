@@ -1,8 +1,8 @@
 import { isDevelopment } from "./environment";
 import BaseApi from "./base.api";
 import errorService from './error.api';
-import mockGetProduct from '../static/getProduct.json';
-import mockCheckAvailability from '../static/checkAvailability.json';
+import mockProducts from '../static/products.json';
+import mockAvailabilities from '../static/availabilities.json';
 
 const PRODUCTS_API_URL = 'https://www.adidas.com/api/products/'
 
@@ -25,9 +25,14 @@ const MockProductsApi = (path?: string, options = {}) => {
     resolve => {
       window.setTimeout(() => {
         if (path?.includes('availability')) {
-          resolve(mockCheckAvailability);
+          const productId = path.split('/')?.[0];
+          const productAvailability = mockAvailabilities.find(product => product.id === productId);
+
+          resolve(productAvailability);
         } else {
-          resolve(mockGetProduct);
+          const productId = path;
+          const product = mockProducts.find(product => product.id === productId);
+          resolve(product);
         }
       }, Math.random() * 1000 + 1000);
     }
@@ -35,12 +40,12 @@ const MockProductsApi = (path?: string, options = {}) => {
 };
 
 class ProductsService extends BaseApi {
-  get(id: string) {
-    return this.api(id);
+  get(productId: string) {
+    return this.api(productId);
   }
 
-  checkAvailability(id: string) {
-    return this.api(`${id}/availability`);
+  checkAvailability(productId: string) {
+    return this.api(`${productId}/availability`);
   }
 }
 

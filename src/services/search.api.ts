@@ -1,7 +1,7 @@
 import { isDevelopment } from "./environment";
 import BaseApi from "./base.api";
 import errorService from './error.api';
-import mockTFJson from '../static/searchTF.json';
+import mockTaxonomyJson from '../static/searchTaxonomy.json';
 import mockProductJson from '../static/searchProduct.json';
 import { Product } from "../models/product";
 
@@ -26,7 +26,7 @@ const MockSearchApi = (path?: string, options = {}) => {
     resolve => {
       window.setTimeout(() => {
         if (path?.includes('tf')) {
-          resolve(mockTFJson);
+          resolve(mockTaxonomyJson);
         } else if (path?.includes('product')) {
           resolve(mockProductJson);
         }
@@ -42,9 +42,9 @@ class SearchService extends BaseApi {
     return this.api(path);
   }
 
-  getProduct(id: string): Promise<{ price: number }> {
+  getProduct(productId: string): Promise<{ price: number }> {
     const queryParams = '?sitePath=us'
-    const path = `product/${id}${queryParams}`;
+    const path = `product/${productId}${queryParams}`;
     return this.api(path);
   }
 }

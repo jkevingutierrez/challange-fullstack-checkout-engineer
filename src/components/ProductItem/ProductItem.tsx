@@ -122,7 +122,7 @@ const ProductItem: FunctionComponent<IProductItemProps> = props => {
                       <option value=""></option>
                       {
                         availability?.variation_list?.map((variation: any, index: number) => (
-                          <option value={index}>
+                          <option value={index} disabled={variation?.availability_status === 'NOT_AVAILABLE'}>
                             {variation?.size}
                           </option>
                         ))
