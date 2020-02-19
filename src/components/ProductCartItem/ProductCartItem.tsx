@@ -41,7 +41,7 @@ const ProductCartItem: FunctionComponent<IProductCartItemProps> = props => {
       {
         props?.product?.productId && props?.product?.productName && (props?.product?.quantity || 0) > 0 && (props?.product?.availableStock || 0) > 0 && (
           <li className="product-cart-item">
-            <div className="product-item__container">
+            <div className="product-cart-item__container">
               <div className="image__container">
                 <LazyLoadImage className="image" src={props?.product?.productImage} alt={props?.product?.productName} loading="lazy" />
               </div>

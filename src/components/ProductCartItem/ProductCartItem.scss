@@ -7,24 +7,10 @@ $button-disabled: rgba($black, .7);
   max-width: 100%;
   padding: 1rem;
 
-  @include from(mobile-medium) {
-    flex-basis: 50%;
-    max-width: 50%;
-  }
-
-  @include from(tablet-medium) {
-    flex-basis: 33.33%;
-    max-width: 33.33%;
-  }
-
-  @include from(desktop-xl) {
-    flex-basis: 25%;
-    max-width: 25%;
-  }
-
   &__container {
-    background-color: $athens-gray;
-    padding: 1rem .5rem;
+    align-items: center;
+    border: 1px solid $black;
+    display: flex;
     position: relative;
   }
 
@@ -45,7 +31,7 @@ $button-disabled: rgba($black, .7);
   }
 
   .image__container {
-    margin-bottom: 1rem;
+    background-color: $athens-gray;
     text-align: center;
   }
 
