@@ -22,7 +22,7 @@ before_script:
 
 script:
   - npm run build
-  - npm run cypress
+  - npm run cypress -- --record false
   - npm test
 
 deploy:
