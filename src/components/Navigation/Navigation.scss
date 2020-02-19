@@ -88,4 +88,12 @@ $top-bar-color: $porcelain;
       }
     }
   }
+
+  .form--search {
+    display: none;
+
+    @include from (tablet-medium) {
+      display: block;
+    }
+  }
 }
