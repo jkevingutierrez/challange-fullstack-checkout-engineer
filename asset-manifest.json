@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/challange-fullstack-checkout-engineer/static/css/main.5bdd4331.chunk.css",
+    "main.js": "/challange-fullstack-checkout-engineer/static/js/main.5401922a.chunk.js",
+    "main.js.map": "/challange-fullstack-checkout-engineer/static/js/main.5401922a.chunk.js.map",
+    "runtime-main.js": "/challange-fullstack-checkout-engineer/static/js/runtime-main.58e41044.js",
+    "runtime-main.js.map": "/challange-fullstack-checkout-engineer/static/js/runtime-main.58e41044.js.map",
+    "static/css/2.764ccc25.chunk.css": "/challange-fullstack-checkout-engineer/static/css/2.764ccc25.chunk.css",
+    "static/js/2.e6280077.chunk.js": "/challange-fullstack-checkout-engineer/static/js/2.e6280077.chunk.js",
+    "static/js/2.e6280077.chunk.js.map": "/challange-fullstack-checkout-engineer/static/js/2.e6280077.chunk.js.map",
+    "index.html": "/challange-fullstack-checkout-engineer/index.html",
+    "precache-manifest.a1fb3468d37dfc6729d7ef7c685788f7.js": "/challange-fullstack-checkout-engineer/precache-manifest.a1fb3468d37dfc6729d7ef7c685788f7.js",
+    "service-worker.js": "/challange-fullstack-checkout-engineer/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/challange-fullstack-checkout-engineer/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.5bdd4331.chunk.css.map": "/challange-fullstack-checkout-engineer/static/css/main.5bdd4331.chunk.css.map",
+    "static/js/2.e6280077.chunk.js.LICENSE.txt": "/challange-fullstack-checkout-engineer/static/js/2.e6280077.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58e41044.js",
+    "static/css/2.764ccc25.chunk.css",
+    "static/js/2.e6280077.chunk.js",
+    "static/css/main.5bdd4331.chunk.css",
+    "static/js/main.5401922a.chunk.js"
+  ]
+}
