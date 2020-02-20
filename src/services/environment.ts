@@ -3,5 +3,6 @@ export const isDevelopment = () => {
     return true;
   }
 
-  return false;
+  // TODO: Change to false when CORS issue get solved
+  return true;
 }
