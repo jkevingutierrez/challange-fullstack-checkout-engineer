@@ -12,7 +12,7 @@ interface IProductItemProps {
 }
 
 const ProductItem: FunctionComponent<IProductItemProps> = props => {
-  const element = useRef({} as any );
+  const element = useRef({} as any);
 
   const { setCart } = useContext(CartContext);
 

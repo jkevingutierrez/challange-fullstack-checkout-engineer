@@ -7,7 +7,7 @@ import { ProductLineItem } from '../../models/productLineItem';
 import LazyLoadImage from '../LazyLoadImage';
 
 interface IProductCartItemProps {
-  product: ProductLineItem
+  product: ProductLineItem;
 }
 
 const ProductCartItem: FunctionComponent<IProductCartItemProps> = props => {

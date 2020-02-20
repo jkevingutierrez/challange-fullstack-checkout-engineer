@@ -1,8 +1,7 @@
-import React, { FunctionComponent } from 'react';
-import IPageProps from '../interfaces/PageProps';
+import React from 'react';
 import Cart from '../components/Cart/Cart';
 
-const ShoppingCart: FunctionComponent<IPageProps> = props => {
+function ShoppingCart() {
   return (
     <div className="shoppingCart">
       <h1>Your bag</h1>

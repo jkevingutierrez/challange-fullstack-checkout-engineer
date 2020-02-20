@@ -11,7 +11,7 @@ function Products() {
       <h1>Products Page</h1>
       <ProductList products={products} />
     </div>
-    );
+  );
 };
 
 export default Products;
