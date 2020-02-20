@@ -45,26 +45,28 @@ const ProductCartItem: FunctionComponent<IProductCartItemProps> = props => {
               <div className="image__container">
                 <LazyLoadImage className="image" src={props?.product?.productImage} alt={props?.product?.productName} loading="lazy" />
               </div>
-              <div>
-                <h3 title={props?.product?.productName}>{props?.product?.productName.replace(/\s/g, ' ')}</h3>
-                <p>{price > 0 ? `Price: $${price}` : 'Loading...'}</p>
+              <div className="text__container">
+                <div>
+                  <h3 title={props?.product?.productName} className="no-margin">{props?.product?.productName.replace(/\s/g, ' ')}</h3>
+                  <h3 title={props?.product?.color} className="no-margin">{props?.product?.color.replace(/\s/g, ' ')}</h3>
+                  <p>{price > 0 ? `Price: $${price}` : 'Loading...'}</p>
+                </div>
+                <form onSubmit={handleRemoveFromCart}>
+                  <div>
+                    <label>
+                      Size: {props?.product?.size}
+                    </label>
+                  </div>
+                  <div>
+                    <label aria-label="Quantity">
+                      <input type="number" value={props?.product?.quantity} disabled />
+                    </label>
+                  </div>
+                  <div>
+                    <button type="submit" className="button" aria-label="Remove from cart">x</button>
+                  </div>
+                </form>
               </div>
-              <form onSubmit={handleRemoveFromCart}>
-                <div>
-                  <label>
-                    Size: {props?.product?.size}
-                  </label>
-                </div>
-                <div>
-                  <label>
-                    Quantity:
-                    <input type="number" value={props?.product?.quantity} disabled />
-                  </label>
-                </div>
-                <div>
-                  <button type="submit" className="button">Remove from cart</button>
-                </div>
-              </form>
             </div>
           </li>
         )

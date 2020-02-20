@@ -14,7 +14,6 @@ function ProductCartList() {
 
   return (
     <div className="product-cart-list__container">
-      <h4>TOTAL: ({products?.length || 0} Products) ${cart?.currency}{cart?.pricing?.total || 0}</h4>
       <ul className="product-cart-list">
         {
           products?.map((product, index) => (

@@ -1,0 +1,27 @@
+@import '../../styles/share';
+
+.checkout-button {
+  background-color: $black;
+  border: 0;
+  color: $white;
+  margin-bottom: 2rem;
+  min-width: 300px;
+  padding: 1rem;
+  position: relative;
+  text-transform: uppercase;
+
+  &:hover {
+    color: $jumbo;
+  }
+
+  &::before {
+    border: 1px solid $black;
+    content: '';
+    height: 100%;
+    left: .2rem;
+    position: absolute;
+    top: .2rem;
+    width: 100%;
+    z-index: -1;
+  }
+}

@@ -4,11 +4,6 @@ import ProductItem from './ProductItem';
 
 afterEach(cleanup);
 
-const observeMock = {
-  observe: () => null,
-  disconnect: () => null // maybe not needed
-};
-
 beforeEach(() => {
   const global = window as any;
 

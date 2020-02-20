@@ -1,5 +1,18 @@
 @import '../../styles/share';
 
 .cart {
+  display: flex;
+  flex-direction: column-reverse;
 
+  @include from(tablet-medium) {
+    flex-direction: row;
+  }
+
+  &__left {
+    @include from(tablet-medium) {
+      flex-basis: 70%;
+      margin-right: 10%;
+      width: 70%;
+    }
+  }
 }

@@ -118,6 +118,7 @@ const MockBasketsApi = (path?: string, options = {} as any) => {
           localStorage.setItem(BASKET_KEY_NAME, JSON.stringify(mockEmptyBasket));
           resolve(mockEmptyBasket);
         } else if (options?.method?.includes('DELETE')) {
+          localStorage.removeItem(BASKET_ID_KEY_NAME);
           localStorage.removeItem(BASKET_KEY_NAME);
           resolve({});
         } else if (options?.method?.includes('PATCH')) {
@@ -168,6 +169,7 @@ class BasketsService extends BaseApi {
 
     const response = await this.api(basketId, options);
     localStorage.removeItem(BASKET_ID_KEY_NAME);
+    localStorage.removeItem(BASKET_KEY_NAME);
     return response;
   }
 

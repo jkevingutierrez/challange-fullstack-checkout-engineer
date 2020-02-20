@@ -1,6 +1,7 @@
 import React, { useContext } from 'react';
 import ProductList from '../components/ProductList/ProductList';
 import ProductsContext from '../ProductsContext';
+import './Products.scss';
 
 function Products() {
   const { products } = useContext(ProductsContext);

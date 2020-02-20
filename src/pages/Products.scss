@@ -1,0 +1,8 @@
+@import '../styles/share';
+
+.products {
+  @include from(tablet-medium) {
+    margin: 0 auto;
+    max-width: 75%;
+  }
+}

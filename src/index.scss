@@ -35,10 +35,7 @@ li {
 }
 
 main {
-  @include from(tablet-medium) {
-    margin: 0 auto;
-    max-width: 75%;
-  }
+  padding: 0 16px;
 }
 
 h1,
@@ -53,3 +50,8 @@ h4 {
 .image {
   max-width: 100%;
 }
+
+.no-margin {
+  margin: 0;
+}
+

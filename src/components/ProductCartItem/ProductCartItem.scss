@@ -5,7 +5,7 @@ $button-disabled: rgba($black, .7);
 .product-cart-item {
   flex-basis: 100%;
   max-width: 100%;
-  padding: 1rem;
+  padding: 0 0 2rem;
 
   &__container {
     align-items: center;
@@ -18,12 +18,11 @@ $button-disabled: rgba($black, .7);
     background-color: $black;
     border: 0;
     color: $white;
-    left: 0;
-    padding: 1rem;
+    height: 36px;
     position: absolute;
     right: 0;
     top: 0;
-    width: 100%;
+    width: 36px;
 
     &:disabled {
       background-color: $button-disabled;
@@ -32,17 +31,32 @@ $button-disabled: rgba($black, .7);
 
   .image__container {
     background-color: $athens-gray;
+    flex-basis: 35%;
     text-align: center;
+    width: 35%;
+  }
+
+  .text__container {
+    max-width: calc(100% - 36px);
+    padding: 1rem;
+    padding-right: calc(36px + 1rem);
   }
 
   h3 {
+    font-weight: normal;
     overflow: hidden;
     text-overflow: ellipsis;
+    text-transform: uppercase;
     white-space: nowrap;
   }
 
   input,
   select {
     width: 100%;
+  }
+
+  label {
+    display: block;
+    margin: 1rem 0;
   }
 }
