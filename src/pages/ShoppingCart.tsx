@@ -5,7 +5,7 @@ import Cart from '../components/Cart/Cart';
 const ShoppingCart: FunctionComponent<IPageProps> = props => {
   return (
     <div className="shoppingCart">
-      <h1>Shopping Cart</h1>
+      <h1>Your bag</h1>
       <Cart />
     </div>
   );

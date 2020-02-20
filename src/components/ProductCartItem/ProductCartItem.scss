@@ -1,6 +1,6 @@
 @import '../../styles/share';
 
-$button-disabled: rgba($black, .7);
+$button-hover: rgba($black, .7);
 
 .product-cart-item {
   flex-basis: 100%;
@@ -15,17 +15,17 @@ $button-disabled: rgba($black, .7);
   }
 
   .button {
-    background-color: $black;
     border: 0;
-    color: $white;
+    color: $black;
+    font-size: 26px;
     height: 36px;
     position: absolute;
     right: 0;
     top: 0;
     width: 36px;
 
-    &:disabled {
-      background-color: $button-disabled;
+    &:hover {
+      color: $button-hover;
     }
   }
 

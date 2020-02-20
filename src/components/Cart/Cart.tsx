@@ -23,7 +23,7 @@ function Cart() {
 
   return (
     <div className="cart__container">
-      <h4>TOTAL: ({products?.length || 0} Products) ${cart?.currency}{cart?.pricing?.total || 0}</h4>
+      <h4>TOTAL: ({products?.length || 0} item{products?.length !== 1 ? 's' : ''}) <span>${cart?.currency}{cart?.pricing?.total || 0}</span></h4>
       <div className="cart">
         <div className="cart__left">
           <ProductCartList />

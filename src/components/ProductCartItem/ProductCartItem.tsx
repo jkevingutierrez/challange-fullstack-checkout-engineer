@@ -49,12 +49,12 @@ const ProductCartItem: FunctionComponent<IProductCartItemProps> = props => {
                 <div>
                   <h3 title={props?.product?.productName} className="no-margin">{props?.product?.productName.replace(/\s/g, ' ')}</h3>
                   <h3 title={props?.product?.color} className="no-margin">{props?.product?.color.replace(/\s/g, ' ')}</h3>
-                  <p>{price > 0 ? `Price: $${price}` : 'Loading...'}</p>
+                  <p>{price > 0 ? `$${price.toFixed(2)}` : 'Loading...'}</p>
                 </div>
                 <form onSubmit={handleRemoveFromCart}>
                   <div>
                     <label>
-                      Size: {props?.product?.size}
+                      SIZE: {props?.product?.size}
                     </label>
                   </div>
                   <div>
@@ -63,7 +63,7 @@ const ProductCartItem: FunctionComponent<IProductCartItemProps> = props => {
                     </label>
                   </div>
                   <div>
-                    <button type="submit" className="button" aria-label="Remove from cart">x</button>
+                    <button type="submit" className="button" aria-label="Remove from cart">&#215;</button>
                   </div>
                 </form>
               </div>

@@ -6,6 +6,6 @@ afterEach(cleanup);
 
 test('Cart', () => {
   const { getByText } = render(<Cart />);
-  const countTextElement = getByText(/0 Products/i);
+  const countTextElement = getByText(/0 items/i);
   expect(countTextElement).toBeInTheDocument();
 });
