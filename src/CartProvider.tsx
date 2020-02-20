@@ -7,15 +7,20 @@ const CartProvider: FunctionComponent = props => {
   const [cart, setCart] = useState({} as Basket);
 
   useEffect(() => {
+    let isSubscribed = true;
     const basketId = basketsApi.getId();
 
     if (basketId) {
       basketsApi.get(basketId).then((response: Basket) => {
-        setCart({
-          ...response,
-        } as Basket);
+        if (isSubscribed) {
+          setCart({
+            ...response,
+          } as Basket);
+        }
       });
     }
+
+    return () => { isSubscribed = false };
   }, [])
 
   const value = { cart, setCart };

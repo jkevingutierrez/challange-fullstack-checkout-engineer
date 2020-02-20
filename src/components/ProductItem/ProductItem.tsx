@@ -28,25 +28,31 @@ const ProductItem: FunctionComponent<IProductItemProps> = props => {
   });
 
   useEffect(() => {
+    let isSubscribed = true;
+
     const observer = new IntersectionObserver((entries, observer) => {
       entries.forEach((entry) => {
         if (entry.isIntersecting) {
           productsApi.get(props?.product?.productId)
             .then((response) => {
-              setPrice(response?.pricing_information?.currentPrice);
+              if (isSubscribed) {
+                setPrice(response?.pricing_information?.currentPrice);
+              }
             });
 
           productsApi.checkAvailability(props?.product?.productId)
             .then((response) => {
-              setAvailability({
-                availability_status: response?.availability_status,
-                variation_list: response?.variation_list,
-                selectedElement: {
-                  sku: '',
-                  quantity: 0,
-                  maxQuantity: 0,
-                },
-              });
+              if (isSubscribed) {
+                setAvailability({
+                  availability_status: response?.availability_status,
+                  variation_list: response?.variation_list,
+                  selectedElement: {
+                    sku: '',
+                    quantity: 0,
+                    maxQuantity: 0,
+                  },
+                });
+              }
             });
 
           observer.disconnect();
@@ -55,6 +61,8 @@ const ProductItem: FunctionComponent<IProductItemProps> = props => {
     });
 
     observer.observe(element.current as Element);
+
+    return () => { isSubscribed = false };
   }, [props]);
 
   const handleChangeSize = (event: React.ChangeEvent<HTMLSelectElement>) => {

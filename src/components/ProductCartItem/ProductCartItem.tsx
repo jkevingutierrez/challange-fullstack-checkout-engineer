@@ -16,14 +16,20 @@ const ProductCartItem: FunctionComponent<IProductCartItemProps> = props => {
   const [price, setPrice] = useState(0);
 
   useEffect(() => {
+    let isSubscribed = true;
+
     if (props?.product?.pricing?.price) {
       setPrice(props?.product?.pricing?.price);
     } else {
       productsApi.get(props?.product?.productId)
         .then((response) => {
-          setPrice(response?.pricing_information?.currentPrice);
+          if (isSubscribed) {
+            setPrice(response?.pricing_information?.currentPrice);
+          }
         });
-    }
+      }
+
+    return () => { isSubscribed = false };
   }, [props]);
 
   const handleRemoveFromCart = (event: React.FormEvent) => {

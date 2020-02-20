@@ -7,12 +7,18 @@ const ProductsProvider: FunctionComponent = props => {
   const [products, setProducts] = useState([] as Product[]);
 
   useEffect(() => {
+    let isSubscribed = true;
+
     searchApi.getProducts()
       .then((response) => {
         const products = response?.itemList?.items as Product[];
 
-        setProducts(products);
+        if (isSubscribed) {
+          setProducts(products);
+        }
       })
+
+    return () => { isSubscribed = false };
   }, []);
 
   const value = { products, setProducts };
